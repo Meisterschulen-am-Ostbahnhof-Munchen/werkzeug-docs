@@ -1,4 +1,4 @@
-# werkzeug-docs
+# Wiki 5: Werkzeug
 
 <https://werkzeug-docs.readthedocs.io/de/latest/>
 
@@ -33,6 +33,6 @@ Wiki 3: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-other-docs/) ISOBUS-o
 
 Wiki 4: [Wiki](https://docs.ms-muc-docs.de/projects/visual-programming-languages-docs/) visual-programming-languages
 
-## Wiki 5
+## Wiki 5: Werkzeug
 
 Wiki 5: [Wiki](https://docs.ms-muc-docs.de/projects/werkzeug-docs/) Werkzeug
