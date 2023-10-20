@@ -6,7 +6,8 @@ Links die Spitze des S210, rechts die des S245
 
 der S210 scheint einen sehr praktischen Sleep zu haben, 
 
-beim S245 scheint der zu fehlen. 
+beim S245 scheint der zu fehlen. --> hat sich rausgestellt das das ein Defekt ist, 
+ein 2. S245 hat den Sleep. 
 
 ![](https://user-images.githubusercontent.com/69573151/224664019-4cbfc2fc-031e-4c67-be83-e20b33786d18.jpeg)
 
