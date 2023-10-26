@@ -23,10 +23,10 @@ Zubehör:
 
 von oben links beginnend: 
 
-* S4
-* K2
-* S3
-* K1
+* [S4 short-tip-set-fine](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
+* [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
+* [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
+* [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
 
 
 
