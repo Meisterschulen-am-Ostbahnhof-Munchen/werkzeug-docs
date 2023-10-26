@@ -21,6 +21,14 @@ Foto:
 
 Zubehör:
 
+von oben links beginnend: 
+
+* S4
+* K2
+* S3
+* K1
+
+
 
 ![Image261023122726](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/f9d4e86a-700c-4666-a91e-e910f6ab3d8a)
 ![Image261023122533-000](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/554dfff7-c798-43b1-9493-2b5d17806f52)
