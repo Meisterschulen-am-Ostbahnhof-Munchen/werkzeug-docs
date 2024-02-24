@@ -1,5 +1,8 @@
 # Wiki 5: Werkzeug
 
+![franz0748_a_new_Logo_for_the_Werkzeug_Wiki_including_Solder_Iro_42e87df5-f7e8-421e-853f-2a6a1223a8b7](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/6a510073-d4b4-411d-aaea-cbf3b0848292)
+
+
 [https://docs.ms-muc-docs.de/projects/werkzeug-docs/de/latest/](https://docs.ms-muc-docs.de/projects/werkzeug-docs/de/latest/)
 
 [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions)
