@@ -2,5 +2,6 @@
 
 ```{toctree}
 hotplate-station
-hotplate-miniware
+hotplate-miniware-MHP30
+hotplate-miniware-MHP50
 ```
