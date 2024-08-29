@@ -36,6 +36,8 @@ standard/standard
 weller/weller
 jbc/jbc
 miniware/miniware
+yihua/yihua
+sequre/sequre
 pinecil/pinecil
 fnirsi/fnirsi
 sunshine/sunshine
