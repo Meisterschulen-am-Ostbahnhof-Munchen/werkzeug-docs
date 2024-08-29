@@ -5,4 +5,6 @@ Die Elektronik ist ein wichtiger Bestandteil unseres modernen Lebens. Sie ist ü
 ```{toctree}
 :caption: 'elektronik'
 loeten/loeten
+netzteil/netzteil
+oszilloskop/oszilloskop
 ```
