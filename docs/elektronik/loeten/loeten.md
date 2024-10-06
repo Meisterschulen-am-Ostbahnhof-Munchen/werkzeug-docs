@@ -62,6 +62,7 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 
 ## Infos: 
 ### Videos
+* [Einstieg ins Löten - Playlist](https://www.youtube.com/watch?v=hETCKqBkwvY&list=PLno_TfarGyJUmWPVbL-KGYm7UU5L6yLrw)
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 1: Die Grundlagen](https://www.youtube.com/watch?v=hETCKqBkwvY)
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 2: Heißluftlöten einer Platine](https://www.youtube.com/watch?v=cD-h0lzCGmE)
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 3: Bedrahtete Bauteile löten - THT](https://www.youtube.com/watch?v=QY-3QqVuVFc)
