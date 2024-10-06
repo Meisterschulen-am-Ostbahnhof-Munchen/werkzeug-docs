@@ -1,4 +1,4 @@
-# heisses_werkzeug
+# Heisses Werkzeug
 
 ```{toctree}
 loetkolben/loetkolben
