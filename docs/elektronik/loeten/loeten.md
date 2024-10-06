@@ -51,12 +51,12 @@ Das Löten auf Platinen erfordert spezielle Techniken, insbesondere wenn es um *
 Wenn du weitere Fragen hast oder spezifische Details benötigst, stehe ich gerne zur Verfügung! 😊
 
 Quelle: Unterhaltung mit Copilot, 6.10.2024
-(1) Einstieg ins Löten - Tutorial für Anfänger - Teil 2: Heißluftlöten einer Platine. https://www.youtube.com/watch?v=cD-h0lzCGmE.
-(2) Löten ganz einfach erklärt - Weichlöten. https://www.youtube.com/watch?v=b0AT86CDySY.
-(3) Weichlöten Teil2 ... Eine Steignaht löten. https://www.youtube.com/watch?v=61Zk8QZ6A_Y.
-(4) Platinen löten in 7 Schritten - DIY-Tutorial - Bonedo. https://www.bonedo.de/artikel/diy-tutorial-platinen-loeten-in-7-schritten/.
-(5) Anleitung zum richtigen Löten – so einfach geht’s - Profi-Guide. https://www.jh-profishop.de/profi-guide/richtig-loeten/.
-(6) Richtig löten – Tipps und Tricks für Zuhause - OBI. https://bing.com/search?q=Einf%c3%bchrungsblock+L%c3%b6ten+Weichl%c3%b6ten+L%c3%b6ten+auf+Platinen.
-(7) Richtig löten Schritt für Schritt erklärt | hagebau.de. https://www.hagebau.de/beratung-loeten/.
+1) Einstieg ins Löten - Tutorial für Anfänger - Teil 2: Heißluftlöten einer Platine. https://www.youtube.com/watch?v=cD-h0lzCGmE.
+2) Löten ganz einfach erklärt - Weichlöten. https://www.youtube.com/watch?v=b0AT86CDySY.
+3) Weichlöten Teil2 ... Eine Steignaht löten. https://www.youtube.com/watch?v=61Zk8QZ6A_Y.
+4) Platinen löten in 7 Schritten - DIY-Tutorial - Bonedo. https://www.bonedo.de/artikel/diy-tutorial-platinen-loeten-in-7-schritten/.
+5) Anleitung zum richtigen Löten – so einfach geht’s - Profi-Guide. https://www.jh-profishop.de/profi-guide/richtig-loeten/.
+6) Richtig löten – Tipps und Tricks für Zuhause - OBI. https://bing.com/search?q=Einf%c3%bchrungsblock+L%c3%b6ten+Weichl%c3%b6ten+L%c3%b6ten+auf+Platinen.
+7) Richtig löten Schritt für Schritt erklärt | hagebau.de. https://www.hagebau.de/beratung-loeten/.
 
 
