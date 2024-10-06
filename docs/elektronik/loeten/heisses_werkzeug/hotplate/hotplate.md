@@ -1,4 +1,4 @@
-# hotplate
+# Hotplate
 
 ```{toctree}
 hotplate-station
