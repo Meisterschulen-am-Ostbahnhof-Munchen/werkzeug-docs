@@ -7,4 +7,6 @@ Die Elektronik ist ein wichtiger Bestandteil unseres modernen Lebens. Sie ist ü
 loeten/loeten
 netzteil/netzteil
 oszilloskop/oszilloskop
+handwerkzeug/handwerkzeug
+software/software
 ```
