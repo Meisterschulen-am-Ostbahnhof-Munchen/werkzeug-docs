@@ -1,4 +1,4 @@
-# ir\_station\_t862
+# Infrarot Rework Station T862
 
 ## Versionen
 
