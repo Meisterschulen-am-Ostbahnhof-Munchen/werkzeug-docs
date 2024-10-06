@@ -32,7 +32,6 @@ This project is under active development.
 :caption: 'Contents:'
 :maxdepth: 7
 :numbered: true
-
 Home <self>
 Home
 elektronik/elektronik
