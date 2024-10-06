@@ -1,4 +1,4 @@
-# jbc-loetkolben
+# JBC Lötkolben
 
 Ich habe mit JBC keine persönlichen Erfahrungen: 
 
