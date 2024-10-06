@@ -3,5 +3,5 @@
 
 ```{toctree}
 :caption: 'Handwerkzeug'
-
+seitenschneider/seitenschneider
 ```
