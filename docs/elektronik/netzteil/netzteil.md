@@ -1,4 +1,4 @@
-# netzteil
+# Netzteil
 
 ```{toctree}
 
