@@ -1,6 +1,11 @@
 # Löten
 
 
+```{toctree}
+heisses_werkzeug/heisses_werkzeug
+sonstiges/sonstiges
+```
+
 Zitat: 
 
 > Löten ist ein thermisches Verfahren zum stoffschlüssigen Fügen von Werkstoffen, wobei eine flüssige Phase durch Schmelzen eines Lotes (Schmelzlöten) oder durch Diffusion an den Grenzflächen (Diffusionslöten) entsteht. Dabei wird eine Oberflächenlegierung erzeugt, das Werkstück in der Tiefe aber nicht aufgeschmolzen: Die Liquidustemperatur der Grundwerkstoffe wird nicht erreicht. Nach dem Erstarren des Lotes ist wie beim Schweißen eine stoffschlüssige Verbindung hergestellt.
@@ -54,7 +59,4 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 (6) Richtig löten – Tipps und Tricks für Zuhause - OBI. https://bing.com/search?q=Einf%c3%bchrungsblock+L%c3%b6ten+Weichl%c3%b6ten+L%c3%b6ten+auf+Platinen.
 (7) Richtig löten Schritt für Schritt erklärt | hagebau.de. https://www.hagebau.de/beratung-loeten/.
 
-```{toctree}
-heisses_werkzeug/heisses_werkzeug
-sonstiges/sonstiges
-```
+
