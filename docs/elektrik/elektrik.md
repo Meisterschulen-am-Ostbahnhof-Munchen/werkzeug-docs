@@ -1,4 +1,4 @@
-# elektrik
+# Elektrik
 
 ```{toctree}
 crimpen/crimpen
