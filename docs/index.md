@@ -33,7 +33,7 @@ This project is under active development.
 :maxdepth: 7
 :numbered: true
 Home <self>
-Home
+Welcome
 elektronik/elektronik
 elektrik/elektrik
 mechanik/mechanik
