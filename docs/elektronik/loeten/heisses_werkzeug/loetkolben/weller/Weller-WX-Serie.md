@@ -22,4 +22,4 @@ jede Lötspitze mit 30€ bis 40€. 
 
 [https://www.weller-tools.com/professional/EUR/de/Top-Menu/News+Center+and+Press/Pressemitteilungen/Neue+RT+Aktivloetspitzen](https://www.weller-tools.com/professional/EUR/de/Top-Menu/News+Center+and+Press/Pressemitteilungen/Neue+RT+Aktivloetspitzen)
 
-[https://www.weller-tools.com/professional/EUR/de/Professional/Produktlinien/WX+Line/Loetstationen+und+Sets](https://www.weller-tools.com/professional/EUR/de/Professional/Produktlinien/WX+Line/Loetstationen+und+Sets)
+<https://www.weller-tools.com/us/en/industrial-soldering/products/soldering-stations?family%5B0%5D=WX%20Line%20Soldering%20Stations>
