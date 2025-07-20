@@ -38,7 +38,7 @@ Die Lötspitzen sind rein passive Teile, die mit relativ viel Spiel auf einen Ke
 
 JCD 908S:
 
-[https://de.banggood.com/908S-80W-LCD-Electric-Soldering-Iron-Adjustable-Temperature-Solder-Iron-with-5Pcs-Solder-Tips-and-Stand-p-1612612.html?cur_warehouse=ES&ID=47184](https://de.banggood.com/908S-80W-LCD-Electric-Soldering-Iron-Adjustable-Temperature-Solder-Iron-with-5Pcs-Solder-Tips-and-Stand-p-1612612.html?cur_warehouse=ES&ID=47184)
+<https://de.banggood.com/JCD-908S-220V-80W-LCD-Electric-Welding-Soldering-Iron-Adjustable-Temperature-Solder-Iron-With-Soldering-Iron-Tips-p-1697041.html?cur_warehouse=CN&ID=47184514182&rmmds=search>
 
 13€ für ein Werkzeugset mit Lötkolben: [https://de.aliexpress.com/item/1005004418391691.html](https://de.aliexpress.com/item/1005004418391691.html) Kann z.B. für eine Flotte an Servicefahrzeugen die normalerweise nicht Löten müssen durchaus Sinn machen.
 
