@@ -31,7 +31,7 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 
 ## Bezugsquellen T862++
 
-[https://www.ebay.de/itm/393626498394](https://www.ebay.de/itm/393626498394)  214€
+<https://www.ebay.de/sch/i.html?_nkw=T862%2B%2B&_sacat=0&_from=R40&_trksid=m570.l1313>
 
 da dieses Gerät für einen Versand aus China zu schwer ist, ist hier Ebay mit einem Versand aus CZ zu empfehlen. 
 

@@ -1,6 +1,6 @@
 # Lötpasten Dosierer (Dispenser)
 
-[https://www.ebay.de/itm/165637640664](https://www.ebay.de/itm/165637640664)
+gibt es auch auf ebay
 
 https://de.aliexpress.com/item/32554182628.html
 
@@ -20,7 +20,7 @@ plus 
 
 ![](https://user-images.githubusercontent.com/69573151/204136081-808a8119-c3af-4d6a-9eb3-c037027709f5.jpg)
 
-also Zubehör braucht man solche Spritzenschläuche: [https://www.ebay.de/itm/373257465928](https://www.ebay.de/itm/373257465928)
+also Zubehör braucht man solche Spritzenschläuche: kann man auch bei ebay finden
 
 außerdem braucht man noch Kanülen für die Spritze, 
 
