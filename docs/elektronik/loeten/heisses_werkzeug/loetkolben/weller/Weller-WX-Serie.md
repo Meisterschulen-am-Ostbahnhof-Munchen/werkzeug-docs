@@ -20,6 +20,6 @@ leider kostet diese Ausstattung auch ihren Preis:
 
 jede Lötspitze mit 30€ bis 40€. 
 
-[https://www.weller-tools.com/professional/EUR/de/Top-Menu/News+Center+and+Press/Pressemitteilungen/Neue+RT+Aktivloetspitzen](https://www.weller-tools.com/professional/EUR/de/Top-Menu/News+Center+and+Press/Pressemitteilungen/Neue+RT+Aktivloetspitzen)
+<https://www.myvolt.de/Loettechnik/Loetspitzen/Loetspitzen-Weller/Loetspitzen-Weller-Serie-RTM-RT/>
 
 <https://www.weller-tools.com/eu/de/industrielles-loeten/produkte/loetstationen?family%5B0%5D=WX%20Line%20L%C3%B6tstationen>
