@@ -12,8 +12,6 @@ ein Abklatsch dessen findet sich bei Heise unter dem Namen **Maiskolben**
 
 Bericht:
 
-[http://www.martin-kumm.de/wiki/doku.php?id=05Misc:SMD_Loetstation](http://www.martin-kumm.de/wiki/doku.php?id=05Misc:SMD_Loetstation)
-
 [https://www.elektormagazine.de/magazine/elektor-201507/27879](https://www.elektormagazine.de/magazine/elektor-201507/27879)
 
 [https://www.elektormagazine.de/magazine/elektor-69/42252](https://www.elektormagazine.de/magazine/elektor-69/42252)
