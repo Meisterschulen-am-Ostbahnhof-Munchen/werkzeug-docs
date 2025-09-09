@@ -9,11 +9,9 @@ myst:
     "property=og:locale": "de"
 ---
 
-
-```{include} ../README.md
-```
-
 **Welcome to werkzeug documentation!**
+
+Main Menu: <https://www.ms-muc-docs.de/>
 
 :::{note}
 Fragen/Anregungen:
