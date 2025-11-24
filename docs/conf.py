@@ -10,8 +10,6 @@ project = "Handbuch für Elektronik-Werkzeuge: Lötkolben und mehr (5)"
 copyright = "2022-2025, Meisterschulen am Ostbahnhof - München"
 author = "Franz Höpfinger"
 
-html_baseurl = "https://docs.ms-muc-docs.de/projects/werkzeug-docs"
-
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
