@@ -4,6 +4,12 @@
 ```
 
 
+## 🎧 Podcast
+
+* [Leiterplatten, Baugruppen, Bauelemente und Löten](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Leiterplatten--Baugruppen--Bauelemente-und-Lten-e368ii0)
+* [Löten mit Stil – Der FNIRSI HS-01 im Check](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-mit-Stil--Der-FNIRSI-HS-01-im-Check-e368voj)
+* [Löten von Klassik zu Hightech Werkzeugen](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-von-Klassik-zu-Hightech-Werkzeugen-e3bg0dr)
+
 ```{toctree}
 heisses_werkzeug/heisses_werkzeug
 sonstiges/sonstiges
@@ -65,6 +71,11 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 
 ## Infos: 
 ### Videos
+* [2025-11-13 17-50-42 Montage Hutschienenmoped logiBUS® -- Teil 1 -- Einführung und Löten](https://www.youtube.com/watch?v=HWBMBVLMPiw)
+* [2025-11-15 12-19-33 Montage Hutschienenmoped logiBUS® -- Teil 2 -- Einführung und Löten](https://www.youtube.com/watch?v=nohE36SZY9M)
+* [Die Kunst des Lötens](https://www.youtube.com/watch?v=I6Srdxx6fzU)
+* [Löten im Jahr 2025](https://www.youtube.com/watch?v=fpcOFSE5sl0)
+* [Löten wie ein Profi](https://www.youtube.com/watch?v=8ulMWcxaB-c)
 * [Einstieg ins Löten - Playlist](https://www.youtube.com/watch?v=hETCKqBkwvY&list=PLno_TfarGyJUmWPVbL-KGYm7UU5L6yLrw)
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 1: Die Grundlagen](https://www.youtube.com/watch?v=hETCKqBkwvY)
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 2: Heißluftlöten einer Platine](https://www.youtube.com/watch?v=cD-h0lzCGmE)
@@ -72,7 +83,6 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 * [Einstieg ins Löten - Tutorial für Anfänger - Teil 4: QFN-Package löten - Zuschauerplatine](https://www.youtube.com/watch?v=t8hEjXaegiY)
 ### Wikipedia:
 <https://de.wikipedia.org/wiki/L%C3%B6ten>
-
 
 
 

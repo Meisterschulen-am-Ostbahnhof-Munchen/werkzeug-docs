@@ -3,6 +3,17 @@
 ```{index} single: JBC Lötkolben
 ```
 
+## 🎧 Podcast
+
+* [Lötkolben-Analyse: Aktiv vs. Passiv, Weller, Ersa, JBC und die USB-C Revolution – Der Profi-Guide für Mechatroniker](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ltkolben-Analyse-Aktiv-vs--Passiv--Weller--Ersa--JBC-und-die-USB-C-Revolution--Der-Profi-Guide-fr-Mechatroniker-e39aqcf)
+* [Pinecil Power-Guide: USB-C PD, Akkus & DC-Fallen – Maximale Leistung für deinen Lötkolben](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Pinecil-Power-Guide-USB-C-PD--Akkus--DC-Fallen--Maximale-Leistung-fr-deinen-Ltkolben-e39bff7)
+* [PINECIL: Der intelligente RISC-V Lötkolben](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/PINECIL-Der-intelligente-RISC-V-Ltkolben-e368li9)
+
+## 📺 Video
+
+* [Lötkolben-Analyse: Aktiv vs. Passiv, Weller, Ersa, JBC und die USB-C Revolution – Der Profi-Guide...](https://www.youtube.com/watch?v=UqR77ASFqmQ)
+* [Technik in modernen Lötkolben](https://www.youtube.com/watch?v=8O_W-s406CE)
+
 ## Spitzen
 
 bei JBC gibt es verschiedene Spitzen, JBC nennt diese [Cartridges](https://www.jbctools.com/cartridges-category-4.html)

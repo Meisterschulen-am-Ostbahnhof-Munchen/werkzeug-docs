@@ -26,6 +26,16 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 3) IRDA SMD & BGA Rework Station T-862++ User Manual - PUHUI T. http://www.puhuit.com/videos/700MBCD/T862++/T-862++%20Manual.pdf.
 4) undefined. http://www.puhuit.com.
 
+## 🎧 Podcast
+
+* [FNIRSI DWS-200 Lötstation im Test: 200 Watt Power und die Wahrheit aus den Nutzer-Reviews](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/FNIRSI-DWS-200-Ltstation-im-Test-200-Watt-Power-und-die-Wahrheit-aus-den-Nutzer-Reviews-e39auoe)
+* [FNIRSI® DWS-200 Lötstation: Präzision & Leistung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/FNIRSI-DWS-200-Ltstation-Przision--Leistung-e368lhq)
+* [Streit, Spaltung, Spektakel: 200 Jahre Agrarforschung in Weihenstephan – Wie Pflug, Prüfstation und Kuh-Computer die Welt veränderten](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Streit--Spaltung--Spektakel-200-Jahre-Agrarforschung-in-Weihenstephan--Wie-Pflug--Prfstation-und-Kuh-Computer-die-Welt-vernderten-e3aubep)
+
+## 📺 Video
+
+* [Streit, Spaltung, Spektakel: 200 Jahre Agrarforschung in Weihenstephan – Wie Pflug, Prüfstation u...](https://www.youtube.com/watch?v=sRN0EmUlHTs)
+
 ## Versionen
 
 ### T862
