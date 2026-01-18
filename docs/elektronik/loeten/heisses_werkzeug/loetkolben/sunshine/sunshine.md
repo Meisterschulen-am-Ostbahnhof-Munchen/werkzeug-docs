@@ -3,7 +3,6 @@
 ```{index} single: SUNSHINE
 ```
 
-
 ```{toctree}
 SUNSHINE-S210
 SUNSHINE-S245

@@ -3,6 +3,9 @@
 ```{index} single: pinecil
 ```
 
+```{toctree}
+PINECIL-BB2
+```
 ## 🎧 Podcast
 
 * [Pinecil Power-Guide: USB-C PD, Akkus & DC-Fallen – Maximale Leistung für deinen Lötkolben](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Pinecil-Power-Guide-USB-C-PD--Akkus--DC-Fallen--Maximale-Leistung-fr-deinen-Ltkolben-e39bff7)
@@ -12,7 +15,3 @@
 ## 📺 Video
 
 * [Analyse: Power für Pinecil](https://www.youtube.com/watch?v=xfeqUInuwLQ)
-
-```{toctree}
-PINECIL-BB2
-```

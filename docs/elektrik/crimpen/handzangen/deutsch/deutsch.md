@@ -3,6 +3,9 @@
 ```{index} single: deutsch
 ```
 
+```{toctree}
+DeutschCrimpzangensatz
+```
 ## 🎧 Podcast
 
 * [Das Technologie-Panorama von 1863: Lanz & Comp. und die Revolution der deutschen Landwirtschaft durch Import, Innovation und Guano](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Das-Technologie-Panorama-von-1863-Lanz--Comp--und-die-Revolution-der-deutschen-Landwirtschaft-durch-Import--Innovation-und-Guano-e39auqa)
@@ -16,7 +19,3 @@
 * [2025-07-20 21-12-23  Fusion 360 Schematic SPICE Simulation deutsch](https://www.youtube.com/watch?v=jHT9nZIXxGU)
 * [Das Technologie-Panorama von 1863: Lanz & Comp. und die Revolution der deutschen Landwirtschaft d...](https://www.youtube.com/watch?v=ShV0oAGoY58)
 * [Meister lernen lernen: Selbstgesteuert durch den deutschen Lehrplan für Land- und Baumaschinenmec...](https://www.youtube.com/watch?v=mrNdj6_1eTc)
-
-```{toctree}
-DeutschCrimpzangensatz
-```

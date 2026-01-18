@@ -3,7 +3,6 @@
 ```{index} single: Hot Plate Mecanic IX5
 ```
 
-
 Die **Mechanic IX5** ist eine vielseitige Heizplatte, die häufig für das Vorheizen von Leiterplatten und andere Lötarbeiten verwendet wird. Hier sind einige wichtige Merkmale und mögliche Aufsätze:
 
 - **Leistung**: Die Heizplatte hat eine maximale Leistung von 260 °C¹.
@@ -32,6 +31,3 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 8) MECHANIC IX5 MINI 10 IN 1... - ATI - Micro Soldering Tools. https://www.facebook.com/atheeqtechnicaltools/videos/mechanic-ix5-mini-10-in-1-preheater-x-to-12-pro-max/488860232113224/.
 9) Mechanic IX5 Ultra Heating Platform Universal PCB Welding Table. https://www.diyfixtool.com/products/mechanic-ix5-ultra-heating-platform-universal-pcb-welding-table.
 10) Mechanic IX5 iPhone Logic Board Heater - store.rossmanngroup.com. https://store.rossmanngroup.com/ab14-mechanic-ix5-iphone-board-heater.html.
-## 📺 Video
-
-* [Via in Pad Plated Over](https://www.youtube.com/watch?v=E0vbluaWA8Y)

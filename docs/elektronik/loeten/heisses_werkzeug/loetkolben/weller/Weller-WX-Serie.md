@@ -26,11 +26,3 @@ jede Lötspitze mit 30€ bis 40€. 
 <https://www.myvolt.de/Loettechnik/Loetspitzen/Loetspitzen-Weller/Loetspitzen-Weller-Serie-RTM-RT/>
 
 <https://www.weller-tools.com/eu/de/industrielles-loeten/produkte/loetstationen?family%5B0%5D=WX%20Line%20L%C3%B6tstationen>
-## 🎧 Podcast
-
-* [Lötkolben-Analyse: Aktiv vs. Passiv, Weller, Ersa, JBC und die USB-C Revolution – Der Profi-Guide für Mechatroniker](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ltkolben-Analyse-Aktiv-vs--Passiv--Weller--Ersa--JBC-und-die-USB-C-Revolution--Der-Profi-Guide-fr-Mechatroniker-e39aqcf)
-
-## 📺 Video
-
-* [Lötkolben-Analyse: Aktiv vs. Passiv, Weller, Ersa, JBC und die USB-C Revolution – Der Profi-Guide...](https://www.youtube.com/watch?v=UqR77ASFqmQ)
-* [Mastering Ohm's Law: The Electronics Primer explains series circuits, parallel circuits, and the Me](https://www.youtube.com/watch?v=7Cf9-wwV8aA)

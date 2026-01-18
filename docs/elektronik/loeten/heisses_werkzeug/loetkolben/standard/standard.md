@@ -3,6 +3,9 @@
 ```{index} single: standard
 ```
 
+```{toctree}
+standard-loetkolben
+```
 ## 🎧 Podcast
 
 * [4diac IDE: Wie der IEC 61499 Standard die Industrieautomatisierung revolutioniert](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Wie-der-IEC-61499-Standard-die-Industrieautomatisierung-revolutioniert-e36756a)
@@ -16,7 +19,3 @@
 * [IEC 61499 vs. 61131: Brauchen wir einen neuen Standard für IIoT? Analyse einer hitzigen Debatte u...](https://www.youtube.com/watch?v=kp8L-yM5mAs)
 * [IEC 61499: Befreit der neue Standard die Industrieautomation? Ein Vergleich mit 61131 und die Brü...](https://www.youtube.com/watch?v=iIbwnDH--M4)
 * [IEC 61499: Revolution der Industrieautomation – Warum der neue Standard Ihre Systeme fit für die ...](https://www.youtube.com/watch?v=MiY7_piLggg)
-
-```{toctree}
-standard-loetkolben
-```

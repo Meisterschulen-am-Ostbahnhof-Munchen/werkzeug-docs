@@ -3,16 +3,6 @@
 ```{index} single: PINECIL-BB2
 ```
 
-## 🎧 Podcast
-
-* [Pinecil Power-Guide: USB-C PD, Akkus & DC-Fallen – Maximale Leistung für deinen Lötkolben](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Pinecil-Power-Guide-USB-C-PD--Akkus--DC-Fallen--Maximale-Leistung-fr-deinen-Ltkolben-e39bff7)
-* [Pinecil Stromversorgung: Sicher, effizient, langlebig – der ultimative Guide](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Pinecil-Stromversorgung-Sicher--effizient--langlebig--der-ultimative-Guide-e36c41o)
-* [PINECIL: Der intelligente RISC-V Lötkolben](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/PINECIL-Der-intelligente-RISC-V-Ltkolben-e368li9)
-
-## 📺 Video
-
-* [Analyse: Power für Pinecil](https://www.youtube.com/watch?v=xfeqUInuwLQ)
-
 ## Links PINECIL-BB2:
 
 [https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
@@ -24,7 +14,6 @@ im folgenden Foto:
 oben ein TS-100, unten ein Pinecil.
 
 ![](https://user-images.githubusercontent.com/69573151/204130628-f5a73d50-f96f-4d51-9b49-edf1f216a012.jpg)
-
 
 Foto:
 
@@ -40,8 +29,6 @@ von oben links beginnend:
 * [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
 * [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
 * [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
-
-
 
 ![Image261023122726](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/f9d4e86a-700c-4666-a91e-e910f6ab3d8a)
 ![Image261023122533-000](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/554dfff7-c798-43b1-9493-2b5d17806f52)

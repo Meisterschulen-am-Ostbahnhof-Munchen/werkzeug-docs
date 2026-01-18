@@ -18,14 +18,6 @@ Der Sunshine S210 überrascht in zweierlei Hinsicht:
 
 *   zwar ist der USB-C Stecker standard, jedoch ist das Netzteil speziell. d.h. man kann mit diesem Netzteil nichts anderes anstellen, und den S210 auch nicht an anderen Netzteilen betreiben.
 
-## Videos SUNSHINE S210:
-
-[https://www.youtube.com/watch?v=jrgD2zYihm0](https://www.youtube.com/watch?v=jrgD2zYihm0)
-
-[https://www.youtube.com/watch?v=5DPhG6PNwG0](https://www.youtube.com/watch?v=5DPhG6PNwG0)
-
-[https://www.youtube.com/watch?v=I-J211mAta4](https://www.youtube.com/watch?v=I-J211mAta4)
-
 ## Links SUNSHINE S210:
 
 [https://www.aliexpress.com/item/1005004883524600.html](https://www.aliexpress.com/item/1005004883524600.html)
