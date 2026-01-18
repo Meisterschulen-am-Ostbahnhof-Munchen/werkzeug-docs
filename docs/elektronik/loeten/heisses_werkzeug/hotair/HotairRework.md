@@ -1,1 +1,4 @@
 # HotairRework
+
+```{index} single: HotairRework
+```

@@ -1,5 +1,8 @@
 # Löten
 
+```{index} single: Löten
+```
+
 
 ```{toctree}
 heisses_werkzeug/heisses_werkzeug

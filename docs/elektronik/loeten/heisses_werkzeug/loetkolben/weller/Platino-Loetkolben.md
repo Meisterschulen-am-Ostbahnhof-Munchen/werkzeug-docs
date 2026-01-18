@@ -1,5 +1,8 @@
 # Platino-Lötkolben
 
+```{index} single: Platino-Lötkolben
+```
+
 im vorangegangenen Kapitel haben wir schon über den Vorteil von "aktiven Spitzen" gesprochen. 
 
 nun kostet eine Weller Lötstation gut und gerne 1000€!

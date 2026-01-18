@@ -1,5 +1,8 @@
 # SUNSHINE
 
+```{index} single: SUNSHINE
+```
+
 
 ```{toctree}
 SUNSHINE-S210

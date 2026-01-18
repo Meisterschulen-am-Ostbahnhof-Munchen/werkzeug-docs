@@ -1,1 +1,4 @@
 # Mechanik
+
+```{index} single: Mechanik
+```

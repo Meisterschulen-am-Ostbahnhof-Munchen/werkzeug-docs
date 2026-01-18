@@ -1,1 +1,4 @@
 # Software
+
+```{index} single: Software
+```

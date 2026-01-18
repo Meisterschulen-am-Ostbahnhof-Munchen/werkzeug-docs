@@ -13,6 +13,9 @@ myst:
   <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
 # Wiki 5: Elektronik-Werkzeuge
+
+```{index} single: Wiki 5: Elektronik-Werkzeuge
+```
 ## Meisterschulen am Ostbahnhof, München
 
 ---

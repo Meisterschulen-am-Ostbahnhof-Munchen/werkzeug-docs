@@ -1,5 +1,8 @@
 # PINECIL-BB2
 
+```{index} single: PINECIL-BB2
+```
+
 ## Links PINECIL-BB2:
 
 [https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)

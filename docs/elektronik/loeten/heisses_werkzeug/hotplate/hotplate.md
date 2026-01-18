@@ -1,5 +1,8 @@
 # Hotplate
 
+```{index} single: Hotplate
+```
+
 ```{toctree}
 hotplate-station
 hotplate-miniware-MHP30

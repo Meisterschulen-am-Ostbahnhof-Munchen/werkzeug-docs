@@ -1,1 +1,4 @@
 # Pinzetten
+
+```{index} single: Pinzetten
+```

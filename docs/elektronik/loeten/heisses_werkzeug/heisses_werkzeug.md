@@ -1,5 +1,8 @@
 # Heisses Werkzeug
 
+```{index} single: Heisses Werkzeug
+```
+
 ```{toctree}
 loetkolben/loetkolben
 hotplate/hotplate

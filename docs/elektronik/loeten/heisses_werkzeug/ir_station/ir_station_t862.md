@@ -1,5 +1,8 @@
 # Infrarot Rework Station T862
 
+```{index} single: Infrarot Rework Station T862
+```
+
 
 Die **IR Rework Station T862++** ist eine vielseitige und leistungsstarke Station, die für das Rework von SMD- und BGA-Bauteilen entwickelt wurde. Hier sind einige wichtige Merkmale und technische Daten:
 

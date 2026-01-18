@@ -1,1 +1,4 @@
 # Eagle
+
+```{index} single: Eagle
+```

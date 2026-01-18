@@ -1,5 +1,8 @@
 # Kompressor
 
+```{index} single: Kompressor
+```
+
 Einsatz eines Kompressors:
 
 *   Abblasen von Platinen nach dem Reinigen

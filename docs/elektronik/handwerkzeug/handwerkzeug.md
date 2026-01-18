@@ -1,5 +1,8 @@
 # Handwerkzeug
 
+```{index} single: Handwerkzeug
+```
+
 
 ```{toctree}
 :caption: 'Handwerkzeug'

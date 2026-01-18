@@ -1,1 +1,4 @@
 # amp
+
+```{index} single: amp
+```

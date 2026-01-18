@@ -1,1 +1,4 @@
 # Welcome 
+
+```{index} single: Welcome
+```

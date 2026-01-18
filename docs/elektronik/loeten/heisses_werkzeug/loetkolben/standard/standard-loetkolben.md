@@ -1,5 +1,8 @@
 # standard-loetkolben
 
+```{index} single: standard-loetkolben
+```
+
 in diesem Kapitel möchte ich alles zusammenfassen was an 
 
 "klassischen" Lötkolben so rumläuft, und mit dem [@franz-ms-muc](https://github.com/franz-ms-muc) eher mittlere bis schlechte Erfahrungen gemacht hat. 

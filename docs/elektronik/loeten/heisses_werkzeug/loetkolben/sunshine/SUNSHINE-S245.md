@@ -1,5 +1,8 @@
 # SUNSHINE S245
 
+```{index} single: SUNSHINE S245
+```
+
 Links die Spitze des S210, rechts die des S245
 
 ![](https://user-images.githubusercontent.com/69573151/224663576-2205daf2-852e-4d3e-8e54-22e1ecdf0ef4.jpg)

@@ -1,5 +1,8 @@
 # FNIRSI
 
+```{index} single: FNIRSI
+```
+
 [http://www.fnirsi.cn/](http://www.fnirsi.cn/)
 
 [http://www.fnirsi.cn/lxwm](http://www.fnirsi.cn/lxwm)

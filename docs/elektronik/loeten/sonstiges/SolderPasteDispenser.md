@@ -1,5 +1,8 @@
 # Lötpasten Dosierer (Dispenser)
 
+```{index} single: Lötpasten Dosierer (Dispenser)
+```
+
 gibt es auch auf ebay
 
 https://de.aliexpress.com/item/32554182628.html
