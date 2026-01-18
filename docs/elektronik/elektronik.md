@@ -20,11 +20,3 @@ software/software
 * [Elektronikfiebel Kompakt: Spannung, Strom, Widerstand und die Diode](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektronikfiebel-Kompakt-Spannung--Strom--Widerstand-und-die-Diode-e36e376)
 * [Löt-Meisterklasse Profi-Tricks für Präzisionselektronik](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lt-Meisterklasse-Profi-Tricks-fr-Przisionselektronik-e3augdi)
 * [Ohmsches Gesetz meistern: Die Elektronik-Fibel erklärt Reihenschaltung, Parallelschaltung und den Me](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-meistern-Die-Elektronik-Fibel-erklrt-Reihenschaltung--Parallelschaltung-und-den-Me-e38djqa)
-
-## 📺 Video
-
-* [2025-02-23 11-47-07 Fusion 360 Elektronik Einführung](https://www.youtube.com/watch?v=uZb-U6FArGw)
-* [2025-02-23 13-20-15 Fusion 360 Elektronik Stückliste Exportieren](https://www.youtube.com/watch?v=Z5RllKgpOfc)
-* [Die Maschenregel: So verstehen Gabelstapler & Elektronik die Spannung / Zweite Kirchhoffsche Rege...](https://www.youtube.com/watch?v=GSWaRR8C_Mc)
-* [Open Circuits: Die verborgene Schönheit und Ingenieurskunst im Inneren unserer Elektronik – Präzi...](https://www.youtube.com/watch?v=XcfnlGd1zT4)
-* [Verpolungsschutz in der Elektronik: Warum die ideale Diode (LM74700) MOSFETs und Schottky-Dioden ...](https://www.youtube.com/watch?v=A3DMiZG4hhI)
