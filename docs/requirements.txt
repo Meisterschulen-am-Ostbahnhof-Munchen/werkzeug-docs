@@ -1,6 +1,6 @@
 myst_parser
 sphinx-rtd-theme
-sphinx
+sphinx<8.0
 sphinxcontrib.mermaid
 sphinxcontrib.googleanalytics
 sphinx-markdown-tables
