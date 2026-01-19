@@ -1,5 +1,12 @@
 # Software
 
+```{toctree}
+:maxdepth: 1
+
+eagle/eagle
+fusion360/fusion360
+```
+
 ```{index} single: Software
 ```
 ## 🎧 Podcast
