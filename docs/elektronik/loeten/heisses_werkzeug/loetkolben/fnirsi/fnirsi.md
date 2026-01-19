@@ -16,6 +16,15 @@ HS-01
 HS-02
 DWS-200
 ```
+
+```{toctree}
+:maxdepth: 1
+
+DWS-200.md
+HS-01.md
+HS-02.md
+```
+
 ## 🎧 Podcast
 
 * [FNIRSI DWS-200 Lötstation im Test: 200 Watt Power und die Wahrheit aus den Nutzer-Reviews](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/FNIRSI-DWS-200-Ltstation-im-Test-200-Watt-Power-und-die-Wahrheit-aus-den-Nutzer-Reviews-e39auoe)

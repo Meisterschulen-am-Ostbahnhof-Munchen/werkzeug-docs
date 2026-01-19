@@ -6,6 +6,13 @@
 ```{toctree}
 jbc-loetkolben
 ```
+
+```{toctree}
+:maxdepth: 1
+
+jbc-loetkolben.md
+```
+
 ## 🎧 Podcast
 
 * [JBC Lötspitzen C470 vs. C245 vs. C210 vs. C115: Welche Spitze ist der Allrounder und wann brauchst du den Nano-Spezialisten?](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/JBC-Ltspitzen-C470-vs--C245-vs--C210-vs--C115-Welche-Spitze-ist-der-Allrounder-und-wann-brauchst-du-den-Nano-Spezialisten-e39ak58)

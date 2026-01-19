@@ -19,6 +19,16 @@ myst:
 
 ```{index} single: Wiki 5: Elektronik-Werkzeuge
 ```
+
+```{toctree}
+:maxdepth: 1
+
+Welcome.md
+elektrik/elektrik.md
+elektronik/elektronik.md
+mechanik/mechanik.md
+```
+
 ## Meisterschulen am Ostbahnhof, München
 
 ---

@@ -41,3 +41,17 @@ pinecil/pinecil
 fnirsi/fnirsi
 sunshine/sunshine
 ```
+```{toctree}
+:maxdepth: 1
+
+fnirsi/fnirsi.md
+jbc/jbc.md
+miniware/miniware.md
+pinecil/pinecil.md
+sequre/sequre.md
+standard/standard.md
+sunshine/sunshine.md
+weller/weller.md
+yihua/yihua.md
+```
+

@@ -13,6 +13,17 @@ oszilloskop/oszilloskop
 handwerkzeug/handwerkzeug
 software/software
 ```
+
+```{toctree}
+:maxdepth: 1
+
+handwerkzeug/handwerkzeug.md
+loeten/loeten.md
+netzteil/netzteil.md
+oszilloskop/oszilloskop.md
+software/software.md
+```
+
 ## 🎧 Podcast
 
 * [Bipolar vs. FET: Warum dein Smartphone nicht glüht und wie Transistoren unsere Elektronik formen](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bipolar-vs--FET-Warum-dein-Smartphone-nicht-glht-und-wie-Transistoren-unsere-Elektronik-formen-e368kjt)

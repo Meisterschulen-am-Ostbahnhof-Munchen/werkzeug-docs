@@ -8,3 +8,10 @@
 pinzetten/pinzetten
 seitenschneider/seitenschneider
 ```
+```{toctree}
+:maxdepth: 1
+
+pinzetten/pinzetten.md
+seitenschneider/seitenschneider.md
+```
+
