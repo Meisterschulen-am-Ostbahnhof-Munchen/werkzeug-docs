@@ -14,15 +14,7 @@ handwerkzeug/handwerkzeug
 software/software
 ```
 
-```{toctree}
-:maxdepth: 1
 
-handwerkzeug/handwerkzeug.md
-loeten/loeten.md
-netzteil/netzteil.md
-oszilloskop/oszilloskop.md
-software/software.md
-```
 
 ## 🎧 Podcast
 

@@ -10,12 +10,7 @@ fusion360/fusion360
 ```{index} single: Software
 ```
 
-```{toctree}
-:maxdepth: 1
 
-eagle/eagle.md
-fusion360/fusion360.md
-```
 
 ## 🎧 Podcast
 

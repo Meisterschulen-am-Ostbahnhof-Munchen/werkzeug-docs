@@ -7,11 +7,7 @@
 PINECIL-BB2
 ```
 
-```{toctree}
-:maxdepth: 1
 
-PINECIL-BB2.md
-```
 
 ## 🎧 Podcast
 

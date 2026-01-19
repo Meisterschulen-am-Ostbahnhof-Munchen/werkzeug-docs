@@ -7,11 +7,7 @@
 standard-loetkolben
 ```
 
-```{toctree}
-:maxdepth: 1
 
-standard-loetkolben.md
-```
 
 ## 🎧 Podcast
 

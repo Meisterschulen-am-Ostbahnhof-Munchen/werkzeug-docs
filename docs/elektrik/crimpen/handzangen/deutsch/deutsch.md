@@ -7,11 +7,7 @@
 DeutschCrimpzangensatz
 ```
 
-```{toctree}
-:maxdepth: 1
 
-DeutschCrimpzangensatz.md
-```
 
 ## 🎧 Podcast
 

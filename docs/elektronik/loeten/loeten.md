@@ -17,12 +17,7 @@ Zitat:
 Quelle: <https://de.wikipedia.org/wiki/L%C3%B6ten>
 
 
-```{toctree}
-:maxdepth: 1
 
-heisses_werkzeug/heisses_werkzeug.md
-sonstiges/sonstiges.md
-```
 
 ## Weichlöten
 Beim Weichlöten handelt es sich um eine gängige Methode, um elektronische Bauteile miteinander zu verbinden. Hier sind die Schritte für das Weichlöten:

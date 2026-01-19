@@ -9,13 +9,7 @@ TS-100
 TS-101
 ```
 
-```{toctree}
-:maxdepth: 1
 
-TS-100.md
-TS-101.md
-TS-80.md
-```
 
 ## 🎧 Podcast
 

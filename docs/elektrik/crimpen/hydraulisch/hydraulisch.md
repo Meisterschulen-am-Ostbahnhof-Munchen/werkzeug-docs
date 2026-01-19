@@ -6,9 +6,5 @@
 ```{toctree}
 HydraulischeCrimpzange
 ```
-```{toctree}
-:maxdepth: 1
 
-HydraulischeCrimpzange.md
-```
 

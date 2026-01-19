@@ -56,25 +56,11 @@ This project is under active development.
 
 **Contents**
 
-```{toctree}
-:caption: 'Contents:'
-:maxdepth: 7
-:numbered: true
-Home <self>
-Welcome
-elektronik/elektronik
-elektrik/elektrik
-mechanik/mechanik
-```
+
 
 ---
 
-```{toctree}
-:caption: 'Index & Suche'
-:maxdepth: 2
-genindex
-search
-```
+
 
 ### Index & Suche
 * {ref}`genindex`

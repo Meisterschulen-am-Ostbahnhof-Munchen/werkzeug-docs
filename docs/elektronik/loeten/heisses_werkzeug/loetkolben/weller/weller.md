@@ -8,12 +8,7 @@ Weller-WX-Serie
 Platino-Loetkolben
 ```
 
-```{toctree}
-:maxdepth: 1
 
-Platino-Loetkolben.md
-Weller-WX-Serie.md
-```
 
 ## 🎧 Podcast
 

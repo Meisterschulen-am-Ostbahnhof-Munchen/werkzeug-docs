@@ -17,13 +17,7 @@ HS-02
 DWS-200
 ```
 
-```{toctree}
-:maxdepth: 1
 
-DWS-200.md
-HS-01.md
-HS-02.md
-```
 
 ## 🎧 Podcast
 

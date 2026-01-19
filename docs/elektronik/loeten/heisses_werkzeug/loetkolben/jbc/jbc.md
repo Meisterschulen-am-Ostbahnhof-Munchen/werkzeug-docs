@@ -7,11 +7,7 @@
 jbc-loetkolben
 ```
 
-```{toctree}
-:maxdepth: 1
 
-jbc-loetkolben.md
-```
 
 ## 🎧 Podcast
 
