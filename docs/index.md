@@ -23,10 +23,10 @@ myst:
 ```{toctree}
 :maxdepth: 1
 
-Welcome.md
-elektrik/elektrik.md
-elektronik/elektronik.md
-mechanik/mechanik.md
+Welcome
+elektrik/elektrik
+elektronik/elektronik
+mechanik/mechanik
 ```
 
 ## Meisterschulen am Ostbahnhof, München
