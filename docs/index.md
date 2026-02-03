@@ -31,8 +31,6 @@ mechanik/mechanik
 
 ## Meisterschulen am Ostbahnhof, München
 
----
-
 **Willkommen bei der Dokumentation zu Elektronik-Werkzeugen.**
 
 Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnhof München.
