@@ -4,6 +4,7 @@
 ```
 
 ```{toctree}
+:maxdepth: 1
 SUNSHINE-S210
 SUNSHINE-S245
 ```

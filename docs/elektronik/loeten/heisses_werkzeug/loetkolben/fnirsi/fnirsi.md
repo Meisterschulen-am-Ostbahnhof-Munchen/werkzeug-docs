@@ -3,6 +3,14 @@
 ```{index} single: FNIRSI
 ```
 
+```{toctree}
+:maxdepth: 1
+HS-01
+HS-02
+DWS-200
+```
+
+
 [http://www.fnirsi.cn/](http://www.fnirsi.cn/)
 
 [http://www.fnirsi.cn/lxwm](http://www.fnirsi.cn/lxwm)
@@ -11,11 +19,6 @@
 
 [https://vk.me/join/AJQ1d0yrQhneCCOVKp1ooJeh](https://vk.me/join/AJQ1d0yrQhneCCOVKp1ooJeh)
 
-```{toctree}
-HS-01
-HS-02
-DWS-200
-```
 
 
 

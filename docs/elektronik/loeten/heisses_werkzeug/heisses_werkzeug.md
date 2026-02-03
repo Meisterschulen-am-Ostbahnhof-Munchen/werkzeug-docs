@@ -4,6 +4,7 @@
 ```
 
 ```{toctree}
+:maxdepth: 1
 loetkolben/loetkolben
 hotplate/hotplate
 ir_station/ir_station

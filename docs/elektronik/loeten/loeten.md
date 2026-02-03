@@ -4,6 +4,7 @@
 ```
 
 ```{toctree}
+:maxdepth: 1
 heisses_werkzeug/heisses_werkzeug
 sonstiges/sonstiges
 ```

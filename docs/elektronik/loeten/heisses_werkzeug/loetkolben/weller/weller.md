@@ -4,6 +4,7 @@
 ```
 
 ```{toctree}
+:maxdepth: 1
 Weller-WX-Serie
 Platino-Loetkolben
 ```
