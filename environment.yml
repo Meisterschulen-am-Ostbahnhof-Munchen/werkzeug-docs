@@ -16,4 +16,5 @@ dependencies:
   - pip:
     - sphinxcontrib.googleanalytics
     - sphinx-markdown-tables
-    - zipp>=3.19.1
+    - sphinxemoji
+    - clang

@@ -10,7 +10,7 @@ myst:
 ---
 
 
-```{image} _static/logos/Meisterschulen_LogoG1_4c.*
+```{image} _static/logos/Meisterschulen_LogoG1_4c
 :alt: Logo Meisterschulen am Ostbahnhof
 :width: 400px
 ```
