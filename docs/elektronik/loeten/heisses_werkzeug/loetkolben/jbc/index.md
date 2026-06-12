@@ -1,7 +1,6 @@
 # jbc
 
-```{index} single: jbc
-```
+
 
 
 

@@ -1,7 +1,6 @@
 # amp
 
-```{index} single: amp
-```
+
 ## 🎧 Podcast
 
 * [Revolutionen der Industrie: Von Dampfmaschine bis KI – Ein tiefer Einblick in 250 Jahre Automatisierung](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Revolutionen-der-Industrie-Von-Dampfmaschine-bis-KI--Ein-tiefer-Einblick-in-250-Jahre-Automatisierung-e375ei5)

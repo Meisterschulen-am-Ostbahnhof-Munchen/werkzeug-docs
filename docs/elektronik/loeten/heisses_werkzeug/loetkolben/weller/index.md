@@ -1,7 +1,6 @@
 # weller
 
-```{index} single: weller
-```
+
 
 
 

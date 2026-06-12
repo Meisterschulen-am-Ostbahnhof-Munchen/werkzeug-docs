@@ -2,8 +2,7 @@
 
 
 
-```{index} single: Software
-```
+
 
 
 

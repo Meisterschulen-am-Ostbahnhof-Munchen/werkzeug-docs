@@ -1,7 +1,6 @@
 # standard
 
-```{index} single: standard
-```
+
 
 
 

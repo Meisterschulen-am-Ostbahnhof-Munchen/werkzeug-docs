@@ -1,5 +1,4 @@
 # Oszilloskop
 
-```{index} single: Oszilloskop
-```
+
 

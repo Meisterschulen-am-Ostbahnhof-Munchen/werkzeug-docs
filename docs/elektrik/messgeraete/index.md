@@ -1,7 +1,6 @@
 # messgeraete
 
-```{index} single: messgeraete
-```
+
 
 
 

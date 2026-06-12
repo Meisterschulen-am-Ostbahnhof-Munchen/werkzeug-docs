@@ -1,7 +1,6 @@
 # SUNSHINE S245
 
-```{index} single: SUNSHINE S245
-```
+
 
 Links die Spitze des S210, rechts die des S245
 

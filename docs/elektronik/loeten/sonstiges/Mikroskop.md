@@ -1,7 +1,6 @@
 # Mikroskop
 
-```{index} single: Mikroskop
-```
+
 
 ## Einige Modelle:
 

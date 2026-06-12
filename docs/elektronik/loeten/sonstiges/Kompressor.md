@@ -1,7 +1,6 @@
 # Kompressor
 
-```{index} single: Kompressor
-```
+
 
 Einsatz eines Kompressors:
 

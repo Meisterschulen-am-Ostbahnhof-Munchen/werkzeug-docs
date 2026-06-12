@@ -1,7 +1,6 @@
 # FNIRSI
 
-```{index} single: FNIRSI
-```
+
 
 
 

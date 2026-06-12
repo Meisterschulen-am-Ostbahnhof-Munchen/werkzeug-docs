@@ -1,7 +1,6 @@
 # Hotplate
 
-```{index} single: Hotplate
-```
+
 
 
 

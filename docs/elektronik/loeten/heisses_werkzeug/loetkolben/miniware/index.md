@@ -1,7 +1,6 @@
 # miniware
 
-```{index} single: miniware
-```
+
 
 
 

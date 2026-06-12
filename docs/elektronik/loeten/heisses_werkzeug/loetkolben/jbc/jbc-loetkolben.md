@@ -1,7 +1,6 @@
 # JBC Lötkolben
 
-```{index} single: JBC Lötkolben
-```
+
 
 ## Spitzen
 

@@ -1,7 +1,6 @@
 # deutsch
 
-```{index} single: deutsch
-```
+
 
 
 

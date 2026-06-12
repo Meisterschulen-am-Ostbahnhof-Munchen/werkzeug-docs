@@ -1,7 +1,6 @@
 # Crimpen
 
-```{index} single: Crimpen
-```
+
 
 
 

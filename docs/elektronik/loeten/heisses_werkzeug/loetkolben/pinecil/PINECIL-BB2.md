@@ -1,7 +1,6 @@
 # PINECIL-BB2
 
-```{index} single: PINECIL-BB2
-```
+
 
 ## Links PINECIL-BB2:
 

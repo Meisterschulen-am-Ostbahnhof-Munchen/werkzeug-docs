@@ -1,7 +1,6 @@
 # Löten
 
-```{index} single: Löten
-```
+
 
 
 

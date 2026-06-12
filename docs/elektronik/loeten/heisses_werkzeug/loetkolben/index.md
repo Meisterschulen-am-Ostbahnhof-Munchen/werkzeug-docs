@@ -1,7 +1,6 @@
 # Lötkolben
 
-```{index} single: Lötkolben
-```
+
 
 
 

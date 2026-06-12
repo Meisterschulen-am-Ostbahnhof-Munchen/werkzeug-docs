@@ -1,7 +1,6 @@
 # Fusion 360 Electronics
 
-```{index} single: Fusion 360 Electronics
-```
+
 
 Fusion 360 Electronics
 

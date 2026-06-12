@@ -1,7 +1,6 @@
 # pinecil
 
-```{index} single: pinecil
-```
+
 
 
 

@@ -1,4 +1,2 @@
 # Seitenschneider
 
-```{index} single: Seitenschneider
-```

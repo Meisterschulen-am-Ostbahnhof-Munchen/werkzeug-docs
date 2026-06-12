@@ -1,7 +1,6 @@
 # Platino-Lötkolben
 
-```{index} single: Platino-Lötkolben
-```
+
 
 im vorangegangenen Kapitel haben wir schon über den Vorteil von "aktiven Spitzen" gesprochen. 
 

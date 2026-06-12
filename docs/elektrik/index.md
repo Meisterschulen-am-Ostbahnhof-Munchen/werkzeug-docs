@@ -1,7 +1,6 @@
 # Elektrik
 
-```{index} single: Elektrik
-```
+
 
 
 

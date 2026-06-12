@@ -1,7 +1,6 @@
 # Entlötlitze 
 
-```{index} single: Entlötlitze
-```
+
 
 https://de.wikipedia.org/wiki/Entl%C3%B6tlitze
 

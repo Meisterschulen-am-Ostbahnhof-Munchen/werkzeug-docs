@@ -1,7 +1,6 @@
 # SUNSHINE S210
 
-```{index} single: SUNSHINE S210
-```
+
 
 Der Sunshine S210 überrascht in zweierlei Hinsicht:
 

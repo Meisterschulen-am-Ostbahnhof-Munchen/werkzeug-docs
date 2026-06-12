@@ -1,7 +1,6 @@
 # hydraulisch
 
-```{index} single: hydraulisch
-```
+
 
 
 

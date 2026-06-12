@@ -1,7 +1,6 @@
 # yihua
 
-```{index} single: yihua
-```
+
 
 
 

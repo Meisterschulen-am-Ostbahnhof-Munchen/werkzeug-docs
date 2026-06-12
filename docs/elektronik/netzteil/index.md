@@ -1,5 +1,4 @@
 # Netzteil
 
-```{index} single: Netzteil
-```
+
 

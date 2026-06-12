@@ -1,7 +1,6 @@
 # standard-loetkolben
 
-```{index} single: standard-loetkolben
-```
+
 
 in diesem Kapitel möchte ich alles zusammenfassen was an 
 

@@ -1,7 +1,6 @@
 # Handwerkzeug
 
-```{index} single: Handwerkzeug
-```
+
 
 
 

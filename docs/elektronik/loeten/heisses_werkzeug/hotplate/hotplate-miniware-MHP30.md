@@ -1,7 +1,6 @@
 # Mini Hot Plate Preheater MHP30
 
-```{index} single: Mini Hot Plate Preheater MHP30
-```
+
 
 Auch miniware hat eine Hotplate:
 

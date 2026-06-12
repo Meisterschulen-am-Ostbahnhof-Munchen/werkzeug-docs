@@ -1,7 +1,6 @@
 # Hotplate Station
 
-```{index} single: Hotplate Station
-```
+
 
 Eine Hotplate solte in jeder Werkstatt vorhanden sein. 
 

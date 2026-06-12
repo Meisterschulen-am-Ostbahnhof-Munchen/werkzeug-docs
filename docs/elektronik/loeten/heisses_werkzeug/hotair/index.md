@@ -1,7 +1,6 @@
 # hotair
 
-```{index} single: hotair
-```
+
 
 
 

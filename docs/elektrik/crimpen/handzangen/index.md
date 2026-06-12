@@ -1,7 +1,6 @@
 # handzangen
 
-```{index} single: handzangen
-```
+
 
 
 

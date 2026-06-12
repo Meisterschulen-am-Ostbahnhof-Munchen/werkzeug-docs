@@ -1,7 +1,6 @@
 # sequre
 
-```{index} single: sequre
-```
+
 
 
 

@@ -1,7 +1,6 @@
 # SUNSHINE
 
-```{index} single: SUNSHINE
-```
+
 
 
 

@@ -1,7 +1,6 @@
 # sonstiges
 
-```{index} single: sonstiges
-```
+
 
 
 

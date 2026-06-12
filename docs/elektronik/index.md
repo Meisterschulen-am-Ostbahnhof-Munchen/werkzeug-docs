@@ -1,7 +1,6 @@
 # Elektronik
 
-```{index} single: Elektronik
-```
+
 
 
 
