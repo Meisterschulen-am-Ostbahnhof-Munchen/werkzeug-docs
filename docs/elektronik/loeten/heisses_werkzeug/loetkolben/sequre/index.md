@@ -1,0 +1,8 @@
+# sequre
+
+```{index} single: sequre
+```
+
+
+
+

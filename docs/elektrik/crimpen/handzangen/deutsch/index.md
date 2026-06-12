@@ -3,10 +3,7 @@
 ```{index} single: deutsch
 ```
 
-```{toctree}
-:maxdepth: 1
-DeutschCrimpzangensatz
-```
+
 
 
 

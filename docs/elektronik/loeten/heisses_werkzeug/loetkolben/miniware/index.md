@@ -3,12 +3,7 @@
 ```{index} single: miniware
 ```
 
-```{toctree}
-:maxdepth: 1
-TS-80
-TS-100
-TS-101
-```
+
 
 
 

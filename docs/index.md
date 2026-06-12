@@ -20,14 +20,7 @@ myst:
 ```{index} single: Wiki 5: Elektronik-Werkzeuge
 ```
 
-```{toctree}
-:maxdepth: 1
 
-Welcome
-elektrik/elektrik
-elektronik/elektronik
-mechanik/mechanik
-```
 
 ## Meisterschulen am Ostbahnhof, München
 
@@ -41,16 +34,14 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 
 ---
 
-:::{note}
-Fragen/Anregungen:
-hier lang:
+!!! note
+    Fragen/Anregungen:
+    hier lang:
+    
+    [Discussion Forum](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions)
 
-[Discussion Forum](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions)
-:::
-
-:::{note}
-This project is under active development.
-:::
+!!! note
+    This project is under active development.
 
 **Contents**
 

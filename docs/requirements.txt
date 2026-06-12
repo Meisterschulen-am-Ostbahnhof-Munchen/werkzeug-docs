@@ -1,12 +1,3 @@
-myst_parser
-sphinx-rtd-theme
-sphinx<8.0
-sphinxcontrib.mermaid
-sphinxcontrib.googleanalytics
-sphinx-markdown-tables
-snowballstemmer
-clang
-setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
-requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
-zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+mkdocs-material
+mkdocs-to-pdf
+weasyprint

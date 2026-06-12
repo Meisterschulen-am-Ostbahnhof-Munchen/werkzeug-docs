@@ -3,10 +3,7 @@
 ```{index} single: standard
 ```
 
-```{toctree}
-:maxdepth: 1
-standard-loetkolben
-```
+
 
 
 

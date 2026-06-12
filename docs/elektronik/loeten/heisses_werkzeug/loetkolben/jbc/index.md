@@ -3,10 +3,7 @@
 ```{index} single: jbc
 ```
 
-```{toctree}
-:maxdepth: 1
-jbc-loetkolben
-```
+
 
 
 
