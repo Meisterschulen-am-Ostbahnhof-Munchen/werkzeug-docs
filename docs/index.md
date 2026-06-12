@@ -10,7 +10,7 @@ myst:
 ---
 
 
-<img src="_static/logos/Meisterschulen_LogoG1_4c" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 # Wiki 5: Elektronik-Werkzeuge
 
