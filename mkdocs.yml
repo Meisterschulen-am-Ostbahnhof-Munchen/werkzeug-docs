@@ -10,6 +10,8 @@ plugins:
 site_name: 'Handbuch für Elektronik-Werkzeuge: Lötkolben und mehr (5)'
 site_url: https://docs.ms-muc-docs.de/projects/werkzeug-docs/
 repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs
+edit_uri: edit/main/docs/
+view_uri: blob/main/docs/
 theme:
   features:
   - navigation.sections
