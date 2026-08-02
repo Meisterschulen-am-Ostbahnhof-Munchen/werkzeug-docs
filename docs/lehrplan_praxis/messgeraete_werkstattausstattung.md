@@ -1,4 +1,4 @@
-# 🔬 Messgeräte & Werkstattausstattung
+# 🔬 Mess- & Diagnosewerkzeuge sowie Werkstattausstattung
 
 > 📌 **Quellennachweis & Rechtsgrundlage:**  
 > **Quelle:** *Rahmenlehrplan für die Vorbereitung auf die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk*  
@@ -7,21 +7,37 @@
 
 ---
 
+## 🎯 Rolle von Mess- & Diagnosewerkzeugen im Lehrplan
 
-**Rahmenlehrplan-Kategorie:** Teil I LE 2.1 & LE 2.2 | Teil II LE 1.3 (100 UStd.)  
-**Relevanz:** Messtechnische Diagnose und Stromversorgung in der Mechatronik-Werkstatt.
-
----
-
-## 1. Oszilloskop- & Signaldiagnose
-
-### Einsatzgebiete
-- **CAN-Bus-Analyse:** Darstellung des physikalischen Signalverlaufs (CAN-High, CAN-Low), Erkennen von Reflexionen und Kurzschlüssen.
-- **Sensor- & Aktor-Signale:** Überprüfung von PWM-Signalen, Induktivgebern, Hall-Sensoren und SENT-Schnittstellen.
+Mess- und Diagnosewerkzeuge sind **vollwertige Werkzeuge** im Mechatroniker-Handwerk. Im Rahmenlehrplan 2025 (Teil I LE 2.1, LE 2.2 & Teil II LE 1.3) werden folgende Diagnose- und Prüfmittel für den Meisterschüler vorausgesetzt:
 
 ---
 
-## 2. Labornetzteile & Werkstattinfrastruktur
+## 1. 🔍 Übersicht aller Diagnose- & Messwerkzeuge im Wiki
 
-- **Regelbare Labornetzteile:** Strombegrenzte Inbetriebnahme von Steuergeräten und Komponenten zur Vermeidung von Kurzschlussschäden.
-- **Entlöt- & Rework-Arbeitsplätze:** ESD-gerechte Arbeitsumgebung (ESD-Matten, Erdungsbänder).
+### 1.1 Oszilloskope
+- **Anwendungsbereich:** Signalformanalyse am CAN-Bus (CAN-High / CAN-Low), Hysteresebestimmung bei PWM-Proportionalventilen, Hall-Sensor-Zündsignale.
+- **Link im Wiki:** [`elektronik/oszilloskop/index.md`](../elektronik/oszilloskop/index.md)
+
+### 1.2 Multimeter & Kombi-Messgeräte
+- **Anwendungsbereich:** Präzise Messung von Gleich-/Wechselspannung, Widerständen, Durchgangsprüfung, Isolationswiderstandsmessung an HV-Systemen.
+- **Link im Wiki:** [`elektrik/messgeraete/index.md`](../elektrik/messgeraete/index.md)
+
+### 1.3 CAN-Tester & Protokoll-Analysatoren
+- **Anwendungsbereich:** PEAK-Adapterkabel, Busmaster, AEF-ISOBUS-CHECK-Tool zur Überwachung von PGNs, Frames und Busruhe.
+- **Link im Wiki:** *(Siehe auch Wiki 3 ISOBUS Technik)*
+
+### 1.4 Digitale Inspektion-Mikroskope
+- **Anwendungsbereich:** Optische Qualitätskontrolle von SMD-Lötstellen, Cold-Joints, Crimp-Verpressungen und Schliffbildern.
+- **Link im Wiki:** [`elektronik/loeten/sonstiges/Mikroskop.md`](../elektronik/loeten/sonstiges/Mikroskop.md)
+
+---
+
+## 2. ⚡ Werkstattinfrastruktur & Labornetzteile
+
+### 2.1 Strombegrenzte Labornetzteile
+- **Funktion:** Einspeisung definierter Versorgungsspannungen (z. B. 12V / 24V) mit einstellbarer Strombegrenzung zur zwingenden Vermeidung von Bauteilzerstörung beim Ersttest von Steuergeräten.
+- **Link im Wiki:** [`elektronik/netzteil/index.md`](../elektronik/netzteil/index.md)
+
+### 2.2 Kompressoren & Solder Paste Dispenser
+- **Funktion:** Druckluftversorgung für pneumatische Entlötsauger, Paste Dispenser und Werkstattreinigung.

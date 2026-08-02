@@ -16,6 +16,28 @@ Meisterinnen und Meister müssen Kabelbäume professionell anfertigen, Steckverb
 
 ---
 
+---
+
+## 🧰 Drei Kategorien von Werkzeugen in der Meisterschule
+
+In diesem Wiki werden alle drei im Rahmenlehrplan 2025 geforderten Werkzeug-Kategorien abgedeckt:
+
+1. 🔬 **Mess- & Diagnosewerkzeuge (Analysierende Werkzeuge):**
+   - **Oszilloskope:** CAN-Bus-Signalformanalyse, PWM-Überprüfung.
+   - **CAN-Tester & Interfaces:** PEAK, Busmaster, AEF-Check-Tool zur Bus-Diagnose.
+   - **Multimeter:** Spannung, Strom, Widerstand, Durchgang, Frequenz.
+   - **Digitale Mikroskope:** Optische Qualitätsprüfung von SMD-Lötstellen und Crimp-Kontakten.
+
+2. 🪛 **Produzierende & Fertigungswerkzeuge (Verarbeitende Werkzeuge):**
+   - **Löttechnik:** JBC/Aixun/Ersa Lötstationen, Hotair Rework, Hotplates (Vorheizplatten), Entlötlitze.
+   - **Crimptechnik:** 4-Kerb-Handzangen für Deutsch-Stecker (DT/DTM), AMP Superseal, Hydraulische Crimpzangen für große Querschnitte.
+   - **Handwerkzeug:** Präzisionspinzetten, Seitenschneider, Abisolierwerkzeuge.
+
+3. ⚡ **Werkstattinfrastruktur & Hilfsmittel (Versorgende Werkzeuge):**
+   - **Labornetzteile:** Strombegrenzte Netzgeräte zur sicheren Erstinbetriebnahme.
+   - **Kompressoren & Solder Paste Dispenser:** Druckluftunterstützte Werkzeuge.
+   - **ESD-Ausstattung:** Schutz gegen elektrostatische Entladung.
+
 ## 📚 Lehrplan-Module & Schwerpunkte
 
 ### 1. 🔌 [Crimptechnik & Kabelbaumfertigung](./lehrplan_praxis/crimptechnik_kabelbaeume.md)

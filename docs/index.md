@@ -12,9 +12,14 @@ myst:
 
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
-# Wiki 5: Elektronik-Werkzeuge & Werkstattpraxis
+# Wiki 5: Werkzeug- & Messmittel-Handbuch (Fertigungs-, Mess- & Diagnosewerkzeuge)
 
 ## Meisterschulen am Ostbahnhof, München
+
+---
+
+> 🛠️ **Werkzeug-Begriff in unserer Dokumentation:**  
+> Unter „Werkzeug“ verstehen wir das **gesamte Spektrum der Werkstattausrüstung** – nicht nur produzierende Werkzeuge (Löten, Crimpen), sondern insbesondere auch **alle Diagnose- und Messwerkzeuge** (Oszilloskope, Multimeter, CAN-Tester, digitale Mikroskope) sowie die **Werkstattinfrastruktur** (Labornetzteile, ESD-Schutz, Kompressoren).
 
 ---
 
