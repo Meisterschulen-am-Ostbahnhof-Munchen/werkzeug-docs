@@ -18,3 +18,10 @@ Bedient sowohl Hobbyelektroniker als auch professionelle Werkstätten weltweit.
 | Modell | Beschreibung |
 |--------|-------------|
 | [YIHUA-982](YIHUA-982.md) | Lötkolben |
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

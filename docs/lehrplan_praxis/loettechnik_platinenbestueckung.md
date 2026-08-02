@@ -26,3 +26,10 @@
 - **Hotair (Heißluft-Stationen):** Zerstörungsfreies Auslöten mehrpoliger SMD-Bausteine.
 - **Hotplates (Vorheizplatten):** Gleichmäßige Erwärmung von Platinen zur Vermeidung von Thermoschocks.
 - **Optische Kontrolle:** Verwendung von Digital-Mikroskopen zur Inspektion von Lötstellen.
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

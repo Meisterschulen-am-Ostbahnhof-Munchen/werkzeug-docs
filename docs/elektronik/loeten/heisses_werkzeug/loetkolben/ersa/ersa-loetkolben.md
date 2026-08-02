@@ -24,3 +24,10 @@ Auch diese gelten als "aktive" (besser: **innenbeheizte**) Hochleistungslötspit
 - **Ersa Serie 142:** Nicht als klassische "aktive Kartuschenspitze" eingestuft, bietet aber dank patentierter Bauweise nahezu die gleiche Performance – und günstigere Betriebskosten, da das Heizelement beim Spitzenwechsel erhalten bleibt.
 
 ERSA bezeichnet dieses Prinzip als **"innenbeheizte Lötspitzentechnologie für beste Energieeffizienz"**.
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

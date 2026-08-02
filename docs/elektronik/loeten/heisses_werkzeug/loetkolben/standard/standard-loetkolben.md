@@ -53,3 +53,9 @@ JCD 908S:
 ![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
 ![](https://user-images.githubusercontent.com/69573151/201533701-e3ff9fcc-c3c9-4a2e-bab5-f677f178a127.jpg)
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

@@ -54,3 +54,9 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 7) Richtig löten Schritt für Schritt erklärt | hagebau.de. https://www.hagebau.de/beratung-loeten/.
 
 ## Infos: 
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

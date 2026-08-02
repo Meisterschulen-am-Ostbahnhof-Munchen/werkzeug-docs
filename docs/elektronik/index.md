@@ -9,3 +9,12 @@ Die Elektronik ist ein wichtiger Bestandteil unseres modernen Lebens. Sie ist ü
 * [Elektronikfiebel Kompakt: Spannung, Strom, Widerstand und die Diode](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektronikfiebel-Kompakt-Spannung--Strom--Widerstand-und-die-Diode-e36e376)
 * [Löt-Meisterklasse Profi-Tricks für Präzisionselektronik](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lt-Meisterklasse-Profi-Tricks-fr-Przisionselektronik-e3augdi)
 * [Ohmsches Gesetz meistern: Die Elektronik-Fibel erklärt Reihenschaltung, Parallelschaltung und den Me](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-meistern-Die-Elektronik-Fibel-erklrt-Reihenschaltung--Parallelschaltung-und-den-Me-e38djqa)
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Ohmsches Gesetz & Formelrad auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/ohmsches-gesetz/)
+* [🌐 Kirchhoffsche Regeln auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/kirchhoffsche-regeln/)
+* [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+* [🌐 Diode & Halbleitergrundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/diode/)

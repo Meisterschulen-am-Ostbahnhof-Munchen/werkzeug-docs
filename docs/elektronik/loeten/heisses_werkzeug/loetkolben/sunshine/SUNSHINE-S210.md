@@ -54,3 +54,8 @@ Mit etwas Mühe: ein 6mm² Kabel konnte verzinnt werden. 
 mit 0.75mm² spielt sich der Lötkolben. 
 
 ![IMG20230227121101](https://user-images.githubusercontent.com/69573151/221553880-e9ce451b-72ff-414d-acff-62d7b6c01941.jpg)
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

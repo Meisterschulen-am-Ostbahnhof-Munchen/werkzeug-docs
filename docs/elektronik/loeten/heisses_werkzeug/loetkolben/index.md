@@ -35,3 +35,10 @@ Willkommen auf der Seite über Lötkolben! Löten ist eine wichtige Technik in d
 | sunshine  | S245            | 110W          | JBC C245           |                     | [sunshine/](sunshine/)                                |
 | sequre    | S99             | —             | TS100-kompatibel   |                     | [sequre/sequre-S99.md](sequre/sequre-S99.md)           |
 
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

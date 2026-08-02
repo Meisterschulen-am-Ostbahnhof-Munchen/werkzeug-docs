@@ -23,3 +23,8 @@ jede Lötspitze mit 30€ bis 40€. 
 <https://www.myvolt.de/Loettechnik/Loetspitzen/Loetspitzen-Weller/Loetspitzen-Weller-Serie-RTM-RT/>
 
 <https://www.weller-tools.com/eu/de/industrielles-loeten/produkte/loetstationen?family%5B0%5D=WX%20Line%20L%C3%B6tstationen>
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)

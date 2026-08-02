@@ -7,3 +7,9 @@
 * [Software-Drachen zähmen: Warum IEC 61499 die Industrie revolutionieren könnte](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Software-Drachen-zhmen-Warum-IEC-61499-die-Industrie-revolutionieren-knnte-e372ecb)
 * [Automatisierung 4.0: Warum Software die Hardware überholt und was das für deine Skills bedeutet](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Automatisierung-4-0-Warum-Software-die-Hardware-berholt-und-was-das-fr-deine-Skills-bedeutet-e375eqs)
 * [DIN EN 61499-1: Funktionsbausteine und der Paradigmenwechsel in der industriellen Softwareentwicklung](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Funktionsbausteine-und-der-Paradigmenwechsel-in-der-industriellen-Softwareentwicklung-e36clps)
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)

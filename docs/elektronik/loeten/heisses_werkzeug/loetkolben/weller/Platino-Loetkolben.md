@@ -17,3 +17,9 @@ Bericht:
 [https://www.elektormagazine.de/magazine/elektor-69/42252](https://www.elektormagazine.de/magazine/elektor-69/42252)
 
 [https://www.heise.de/ratgeber/Platine-zum-Artikel-Loetstation-selbstgebaut-3569923.html](https://www.heise.de/ratgeber/Platine-zum-Artikel-Loetstation-selbstgebaut-3569923.html)
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

@@ -60,3 +60,9 @@ Auch bei JBC lassen sich die Spitzen im heißen Zustand wechseln, zwar nicht Wer
 Bekannte Kopien gibt es von Sugong, Aixun, I2C. 
 
 ebenfalls keinerlei Erfahrungen !
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

@@ -21,3 +21,9 @@ Aktuelle Serien: **Serie 102** und **Serie 142**
 
 - **Serie 142:** Für i-TOOL MK2 und i-TOOL TRACE. Aktuellste Generation, schnellstes Ansprechverhalten.
 - **Serie 102:** Für i-TOOL, i-TOOL NANO, i-TOOL PICO (erste Generation). Innenbeheizte Hochleistungslötspitzen.
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
