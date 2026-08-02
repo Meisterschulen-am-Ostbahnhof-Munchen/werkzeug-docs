@@ -1,7 +1,2 @@
 # Infrarot Rework Stationen
 
-
-
-
-
-

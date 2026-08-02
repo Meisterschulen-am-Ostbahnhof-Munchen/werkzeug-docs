@@ -1,7 +1,2 @@
 # Heisses Werkzeug
 
-
-
-
-
-

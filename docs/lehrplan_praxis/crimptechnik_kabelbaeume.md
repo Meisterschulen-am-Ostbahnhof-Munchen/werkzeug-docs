@@ -7,7 +7,6 @@
 
 ---
 
-
 **Rahmenlehrplan-Kategorie:** Teil I LE 1.3 (40 UE) | Teil II LE 1.2 (40 UStd.)  
 **Relevanz:** Gasdichte, korrosionsbeständige und vibrationsfeste Elektroinstallationen an Land- & Baumaschinen.
 

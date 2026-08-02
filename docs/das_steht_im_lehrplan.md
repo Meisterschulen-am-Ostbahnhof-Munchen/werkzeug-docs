@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 🎯 Praktisch-handwerkliche Verankerung im Lehrplan 2025
 
 Das Mechatroniker-Handwerk vereint Mechanik, Elektronik und Steuerungstechnik. Im neuen Rahmenlehrplan 2025 sind die **praktisch-handwerklichen Fertigkeiten** der Verkabelung, Crimptechnik, Löttechnik, Platinenbestückung sowie der professionelle Einsatz von Werkstatt-Messgeräten **direkte Voraussetzung** für die Durchführung des Meisterprüfungsprojekts (Teil I) und die fachgerechte Werkstattinstandhaltung (Teil II).
@@ -62,7 +61,6 @@ In diesem Wiki werden alle drei im Rahmenlehrplan 2025 geforderten Werkzeug-Kate
 | **Teil I – LE 2.2 (Fehlerdiagnose & Rep.)** | **40 UE** | Reparatur von Steckkontakten, Löten von Ersatzkomponenten, Signalmessung |
 | **Teil II – LE 1.2 (Instandhaltung)** | **40 UStd.** | Qualitätssicherung von Löt-/Crimpverbindungen, Werkzeugauswahl & Pflege |
 | **Teil II – LE 1.3 (Diagnosetechnik)** | **100 UStd.** | Einsatz von Oszilloskopen, Labornetzteilen & Entlötwerkzeugen |
-
 
 ---
 

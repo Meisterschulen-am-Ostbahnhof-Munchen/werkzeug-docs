@@ -25,7 +25,6 @@ Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) ist eine chinesis
 | [SA210](SA210.md) | JBC C210 | Griff separat, kein Wechsel möglich |
 | [SA245](SA245.md) | JBC C245 | Griff separat, kein Wechsel möglich |
 
-
 ## Podcast
 
 * [Miniware TS101: Das mobile Löt-Multitalent – Stärken, Schwächen und die USB-C Revolution](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Miniware-TS101-Das-mobile-Lt-Multitalent--Strken--Schwchen-und-die-USB-C-Revolution-e368lka)

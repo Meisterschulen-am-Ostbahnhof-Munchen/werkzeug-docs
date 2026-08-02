@@ -1,7 +1,5 @@
 # SUNSHINE S210
 
-
-
 Der Sunshine S210 überrascht in zweierlei Hinsicht:
 
 *   mit 3 Spitzen kommt er mit 51,40 € enorm günstig daher

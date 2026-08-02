@@ -1,7 +1,5 @@
 # Hot Plate Mecanic IX5
 
-
-
 Die **Mechanic IX5** ist eine vielseitige Heizplatte, die häufig für das Vorheizen von Leiterplatten und andere Lötarbeiten verwendet wird. Hier sind einige wichtige Merkmale und mögliche Aufsätze:
 
 - **Leistung**: Die Heizplatte hat eine maximale Leistung von 260 °C¹.

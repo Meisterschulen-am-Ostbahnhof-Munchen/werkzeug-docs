@@ -7,7 +7,6 @@
 
 ---
 
-
 **Rahmenlehrplan-Kategorie:** Teil I LE 1.3 & LE 2.2 | Teil II LE 1.2  
 **Relevanz:** Instandsetzung von Steuergeräten, Sensormodulen und Prototypenplatinen.
 

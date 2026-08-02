@@ -9,7 +9,6 @@ myst:
     "property=og:locale": "de"
 ---
 
-
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 # Wiki 5: Werkzeug- & Messmittel-Handbuch (Fertigungs-, Mess- & Diagnosewerkzeuge)
@@ -43,7 +42,6 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 * [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
 * [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/pdf/werkzeug-docs.pdf)
 
-
 ---
 
 !!! note
@@ -57,12 +55,6 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 
 **Contents**
 
-
-
 ---
-
-
-
-
 
 [🏠 Hauptmenü](https://www.ms-muc-docs.de/) | [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) | [Schnelle Suche (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)

@@ -1,11 +1,5 @@
 # Software
 
-
-
-
-
-
-
 ## 🎧 Podcast
 
 * [Den Software-Drachen zähmen: Industrielle Automatisierung und die Zukunft der Produktion](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Den-Software-Drachen-zhmen-Industrielle-Automatisierung-und-die-Zukunft-der-Produktion-e372eg1)

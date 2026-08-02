@@ -1,7 +1,5 @@
 # Hotplate Station
 
-
-
 Eine Hotplate solte in jeder Werkstatt vorhanden sein. 
 
 Anwendungen:

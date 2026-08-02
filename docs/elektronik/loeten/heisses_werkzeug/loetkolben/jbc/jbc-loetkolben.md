@@ -1,7 +1,5 @@
 # JBC Lötkolben
 
-
-
 ## Spitzen
 
 bei JBC gibt es verschiedene Spitzen, JBC nennt diese [Cartridges](https://www.jbctools.com/cartridges-category-4.html)

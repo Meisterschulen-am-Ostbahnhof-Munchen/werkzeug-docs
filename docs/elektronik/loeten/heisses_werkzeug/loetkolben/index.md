@@ -1,10 +1,5 @@
 # Lötkolben
 
-
-
-
-
-
 Willkommen auf der Seite über Lötkolben! Löten ist eine wichtige Technik in der Elektronik und ermöglicht es, elektronische Bauteile miteinander zu verbinden. Ein Lötkolben ist das Hauptwerkzeug, das dafür verwendet wird. Auf dieser Seite werden wir uns näher mit Lötkolben befassen und erklären, wie man sie richtig verwendet und warten kann. Also, wenn Sie neu im Löten sind oder einfach mehr über dieses nützliche Werkzeug erfahren möchten, dann lesen Sie weiter!
 
 | **Brand** | **Name**        | **Power**     | **Spitzen**        | **Remark**          | **Link**                                              |
@@ -39,6 +34,4 @@ Willkommen auf der Seite über Lötkolben! Löten ist eine wichtige Technik in d
 | sunshine  | S210            | 110W          | JBC C210           |                     | [sunshine/](sunshine/)                                |
 | sunshine  | S245            | 110W          | JBC C245           |                     | [sunshine/](sunshine/)                                |
 | sequre    | S99             | —             | TS100-kompatibel   |                     | [sequre/sequre-S99.md](sequre/sequre-S99.md)           |
-
-
 
