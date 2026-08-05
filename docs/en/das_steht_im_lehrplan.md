@@ -56,15 +56,10 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 ## ⏱️ Relevant teaching hours in the curriculum
 
 | Field of activity / Learning unit | Total hours | Practical relevance (soldering / crimping / measuring) |
-
 | :--- | :---: | :--- |
-
 | **Part I – LE 1.3 (Practical Installation)** | **40 hours** | Practical cable harness fabrication, crimping, installation of mechatronic components |
-
 | **Part I – LE 2.2 (Troubleshooting & Repair)** | **40 hours** | Repair of plug connectors, soldering of replacement components, signal measurement |
-
 | **Part II – LE 1.2 (Maintenance)** | **40 hours** | Quality Assurance of Soldered/Crimped Connections, Tool Selection & Maintenance |
-
 **Part II – LE 1.3 (Diagnostic Technology)** | **100 hours** | Use of Oscilloscopes, Laboratory Power Supplies & Desoldering Tools |
 
 ** ---
@@ -80,17 +75,11 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 ## 🔗 Main Portal & Direct Links to the 6 Wikis
 
 | Wiki | Topic / Description | Link |
-
 | :--- | :--- | :---: |
-
 **Wiki 0** | **Master Schools Wiki** <br> General information, Curriculum 2025 & Main Wiki. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
-
 **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and the ISOBUS environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) |
-
 **Wiki 2** | **ISOBUS Virtual Terminal** <br> User interfaces, ISO Designer & VT objects. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/en/latest/) |
-
 **Wiki 3** | **ISOBUS Technology & Machine Systems** <br> Hydraulics, pneumatics, motors, high-voltage technology, gearboxes & machine safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/en/latest/) |
-
 **Wiki 4** | **Visual Programming Languages** <br> Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
 
 ---

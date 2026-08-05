@@ -4,7 +4,6 @@ Link: https://sequremall.com/
 ## Models
 | Model | Tips | Power Supply |
 |--------|---------|----------------|
-
 | [S99](sequre-S99.md) | TS100/TS101 compatible | USB-C PD / DC |
 
 --

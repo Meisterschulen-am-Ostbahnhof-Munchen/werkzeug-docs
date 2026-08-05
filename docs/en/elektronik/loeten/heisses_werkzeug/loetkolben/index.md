@@ -4,27 +4,18 @@ Welcome to the page about soldering irons! Soldering is an important technique i
 |-----------|-----------------|---------------|--------------------|---------------------|-------------------------------------------------------|
 | Weller | WX Line | — | RT active (Weller) | High-End, Smart | [weller/](weller/) |
 | Weller | WT Line | — | LT/XNT passive | Standard Prof. | [weller/](weller/) |
-
 | Weller | WE 1010 | 70W | LT/XNT passive | Entry Prof. | [weller/](weller/) |
-
 | Ersa | i-TOOL (i-CON) | — | Series 102 / 142 | German, indoor | [ersa/](ersa/) |
-
 | JBC | T210 (C210) | 40W | JBC active C210 | Precision | [jbc/](jbc/) |
-
 | JBC | T245 (C245) | 130W | JBC active C245 | General Purpose (recommended)| [jbc/](jbc/) |
 | JBC | T470 (C470) | 250W | JBC active C470 | High power | [jbc/](jbc/) |
 | miniware | TS80P | 30W | Weller-like | USB-C PD/QC | [miniware/TS-80.md](miniware/TS-80.md) |
 | miniware | TS-100 | 65W DC | TS100 Series | miniware / IronOS | [miniware/TS-100.md](miniware/TS-100.md) |
 | miniware | TS-101 | 45-90W | TS100 Series | USB-C PD + DC | [miniware/TS-101.md](miniware/TS-101.md) |
-
 | miniware | TS1M | — | JBC | | [miniware/TS1M.md](miniware/TS1M.md) |
-
 | miniware | TS21 | — | JBC | | [miniware/TS21.md](miniware/TS21.md) |
-
 | miniware | TS1C | — | Weller-like | Battery, cordless | [miniware/TS1C.md](miniware/TS1C.md) |
-
 | PINE64 | Pinecil V2 | 65–88W | TS100 series | Open Source | [pinecil/PINECIL-BB2.md](pinecil/PINECIL-BB2.md) |
-
 | fnirsi | HS-02A | 100W PD | JBC C245 | 2 versions!        | [fnirsi/HS-02.md](fnirsi/HS-02.md) |
 | fnirsi | HS-02B | 100WPD | JBC C210 | 2 versions!        | [fnirsi/HS-02.md](fnirsi/HS-02.md) |
 | fnirsi | HS-01 | 65WPD | proprietary | predecessor | [fnirsi/HS-01.md](fnirsi/HS-01.md) |

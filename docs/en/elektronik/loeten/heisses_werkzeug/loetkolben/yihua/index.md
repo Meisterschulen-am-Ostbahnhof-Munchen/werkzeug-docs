@@ -13,9 +13,7 @@ Serving both hobbyists and professional workshops worldwide.
 ## Models
 
 | Model | Description |
-
 |--------|-------------|
-
 | [YIHUA-982](YIHUA-982.md) | Soldering Iron |
 
 ### 🌐 Related topic subpages on ms-muc-docs.de

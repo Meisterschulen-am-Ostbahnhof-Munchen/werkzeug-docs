@@ -4,11 +4,8 @@ Link: https://i2c123.com/
 Professional high-performance soldering stations from China.
 ## Models
 | Model | Power | Handles | Tips |
-
 |--------|----------|------------|----------|
-
 | [PDK-1200](PDK-1200.md) | 300W | 2 | C210, C115, C245 |
-
 | [PDK-1200R](PDK-1200R.md) | 300–400W | 1 (+vacuum cleaner) | C470 |
 
 ## Sleep Base
