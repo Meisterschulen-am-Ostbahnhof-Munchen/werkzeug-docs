@@ -8,7 +8,7 @@ markdown_extensions:
     permalink: true
 plugins:
 - search
-site_name: 'Handbuch für Elektronik-Werkzeuge: Lötkolben und mehr (5)'
+site_name: Handbook for Electronics Tools: Soldering Irons and More (5)
 site_url: https://docs.ms-muc-docs.de/projects/werkzeug-docs/
 extra:
   alternate:
@@ -20,6 +20,7 @@ extra:
     name: English
 repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs
 edit_uri: edit/main/docs/en/
+view_uri: blob/main/docs/en/
 theme:
   features:
   - navigation.sections
