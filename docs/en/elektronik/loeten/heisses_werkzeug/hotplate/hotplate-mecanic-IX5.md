@@ -1,5 +1,6 @@
 # Hot Plate Mechanic IX5
 The **Mechanic IX5** is a versatile hot plate commonly used for preheating printed circuit boards (PCBs) and other soldering tasks. Here are some key features and available attachments:
+
 - **Power**: The hot plate has a maximum temperature of 260 °C¹.
 - **Size**: The heating area measures 6 cm x 8 cm¹.
 - **Power Supply**: It is available in 110V and 220V versions².

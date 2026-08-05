@@ -7,6 +7,7 @@ html_meta:
 "description lang=fr": "description des métadonnées"
 "keywords": "Sphinx, MyST"
 "property=og:locale": "de"
+
 * [PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
 
 ---
