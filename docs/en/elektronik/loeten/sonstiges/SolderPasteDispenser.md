@@ -8,7 +8,6 @@ It requires a 230V power supply and compressed air.
 
 The "vacuum" function is useless, as the device will constantly draw compressed air.
 
-
 The connector didn't fit mine, so I improvised like this:
 
 [https://www.amazon.de/gp/product/B07T6ZYJ8D](https://www.amazon.de/gp/product/B07T6ZYJ8D)

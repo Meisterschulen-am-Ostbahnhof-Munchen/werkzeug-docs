@@ -9,8 +9,5 @@ Link: http://yihua-soldering.com/
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 
-
-```

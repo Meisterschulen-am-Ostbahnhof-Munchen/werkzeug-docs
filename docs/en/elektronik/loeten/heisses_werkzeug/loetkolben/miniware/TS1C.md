@@ -9,10 +9,6 @@ Battery-powered cordless soldering iron.
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-
 * [🌐 The Right Soldering Tip for Mechatronics Engineers (Web App & Comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 
-
-```

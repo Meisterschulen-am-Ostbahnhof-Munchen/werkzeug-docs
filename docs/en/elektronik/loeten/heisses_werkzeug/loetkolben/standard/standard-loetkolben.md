@@ -14,18 +14,12 @@ Certainly, you can solder with them, but the disadvantages are:
 * Slow temperature control
 
 ## Examples
-
 * ATTEN ST-60 / 60 W Soldering Station, ESD-safe
-
 * The ATTEN ST-100 / 100 W soldering iron/station does NOT belong in this list.
-
 * It has improved tip technology.
-
 * YIHUA 926LED-III Digital Electric Soldering Iron
 * JCD 908S
-
 * and many, many more!!!!
-
 
 ## Similarities
 
@@ -47,13 +41,11 @@ JCD 908S:
 
 €13 for a tool set with a soldering iron: [https://de.aliexpress.com/item/1005004418391691.html](https://de.aliexpress.com/item/1005004418391691.html) This could be quite useful, for example, for a fleet of service vehicles that don't normally need to solder.
 
-
 €25 for a soldering station: [https://de.aliexpress.com/item/4001283051045.html](https://de.aliexpress.com/item/4001283051045.html)]
 
 €80 for a soldering station that's no better: [https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html](https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html)] --> I worked with this one for years. It works, but it has the disadvantages mentioned above.
 
 €135 is the price for the ST-100: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)] Unfortunately, I have no personal experience with it. The tips of the ST-100 are different!!!
-
 
 €80 for a soldering station that's no better: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)] ## Photos of Standard Soldering Irons:
 
@@ -64,10 +56,6 @@ JCD 908S:
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-
 * [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 
-
-``

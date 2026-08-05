@@ -1,4 +1,2 @@
 # measuring devices
 
-
-```

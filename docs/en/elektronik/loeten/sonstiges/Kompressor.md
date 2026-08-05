@@ -3,7 +3,6 @@
 Uses of a compressor:
 
 * Blowing off circuit boards after cleaning
-
 * Adhesive and solder paste dispensers require compressed air. See: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
 
 There isn't much to say about the compressor itself,
@@ -15,7 +14,6 @@ Certain budget brands, such as Güde, also offer tankless compressors.
 I tested this one: [https://www.guede.com/artikel/Kompressor-Airpower-200-08-6_50079_0.htm](https://www.guede.com/artikel/Kompressor-Airpower-200-08-6_50079_0.htm)], and returned it after two hours.
 
 Reason: the motor runs constantly, which is not only annoying due to the noise, but also likely results in excessive power consumption.
-
 
 One model that's quite good: [https://www.guede.com/artikel/Kompressor-Airpower-190-08-6_50089_0.htm](https://www.guede.com/artikel/Kompressor-Airpower-190-08-6_50089_0.htm)
 
@@ -43,42 +41,11 @@ Aerotec with a sound pressure level of LWA/59 dB
 
 The Aerotec feels about 20% louder than the Güde. This isn't so much due to the sheer volume, but rather the smoother running. The Güde has a more pronounced knocking sound.
 
-
 Metabo has a sound pressure level of 82 dB(A) and a sound power level of 94 dB(A).
-
 
 [https://de.wikipedia.org/wiki/Schalldruckpegel](https://de.wikipedia.org/wiki/Schalldruckpegel)
 
 ] The Aerotec feels about 20% louder than the Güde. This isn't so much due to the sheer volume, but rather the smoother running. The Güde has a more pronounced knocking sound.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ... If Aerotec's advertising is to be believed, it can be even quieter: (unbelievable): [https://aerotec.info/index.php/produkte/kompressoren/silentkompressoren?id=96&pid=2009528](https://aerotec.info/index.php/produkte/kompressoren/silentkompressoren?id=96&pid=2009528)
 

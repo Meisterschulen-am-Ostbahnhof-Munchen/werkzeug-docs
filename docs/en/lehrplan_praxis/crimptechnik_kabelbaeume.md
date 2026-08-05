@@ -18,22 +18,15 @@
 
 ### Crimping Tools & Connector Systems
 - **Deutsch Connectors (DT, DTM, DTP):** Standard in commercial vehicle and agricultural machinery manufacturing. Uses 4-notch crimping tools for twisted contacts.
-
 - **AMP Superseal 1.5:** Waterproof connectors for outdoor sensors (individual conductor sealing).
-
 - **Hydraulic Crimping Tools:** For large conductor cross-sections (battery cables, high-voltage cables from 16 mm² to 95 mm²).
-
 
 ---
 
 ## 2. Quality Criteria for Crimp Connections
 
 ### Testing according to standard (DIN EN 60352-2)
-
 - **Crimp Height & Crimp Width:** Compliance with manufacturer specifications.
-
 - **Pull-Out Force Test:** Mechanical strength test.
-
 - **Cross-Section Analysis:** Visual inspection for correct crimping without voids.
-
 

@@ -47,14 +47,8 @@ Welcome to the page about soldering irons! Soldering is an important technique i
 | sunshine | S245 | 110W | JBC C245 |                     | [sunshine/](sunshine/) |
 | sequre | S99 | — | TS100 compatible |                     | [sequre/sequre-S99.md](sequre/sequre-S99.md) |
 
-
-
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
-
 * [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)
-
-]

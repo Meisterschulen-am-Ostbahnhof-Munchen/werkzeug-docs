@@ -9,8 +9,6 @@ Compact portable soldering iron, similar to the Miniware TS101. Supports USB-C P
 ---
 
 ### 🌐 Related topic pages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-
 * [🌐 The right soldering tip for the mechatronics engineer (web app & comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

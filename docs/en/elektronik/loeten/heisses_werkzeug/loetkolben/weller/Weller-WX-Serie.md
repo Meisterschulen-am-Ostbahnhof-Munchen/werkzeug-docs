@@ -20,7 +20,6 @@ Unfortunately, this equipment comes at a price:
 
 each soldering tip costs between €30 and €40.
 
-
 <https://www.myvolt.de/Loettechnik/Loetspitzen/Loetspitzen-Weller/Loetspitzen-Weller-Serie-RTM-RT/>
 
 <https://www.weller-tools.com/eu/de/industrielles-loeten/produkte/loetstationen?family%5B0%5D=WX%20Line%20L%C3%B6tstationen>
@@ -28,6 +27,5 @@ each soldering tip costs between €30 and €40.
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 

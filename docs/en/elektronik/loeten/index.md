@@ -6,7 +6,6 @@ Quote:
 
 > The difference from welding lies in the fact that in welding, the liquidus temperature of the components to be joined is significantly exceeded, while in soldering, although the chemical bond may be the same, the liquidus temperature is hardly or not at all exceeded. The chemical composition of the joint differs depending on the materials used (welding wire in welding, solder paste or solder wire in soldering).
 
-
 > Source: <https://de.wikipedia.org/wiki/L%C3%B6ten>
 
 ## Soft Soldering
@@ -15,11 +14,8 @@ Soft soldering is a common method for connecting electronic components. Here are
 1. **Prepare Materials**:
 
 - **Soldering Iron**: A soldering iron with a fine tip is required.
-
 - **Solder**: Use high-quality solder with a suitable flux.
-
 - **Flux**: Flux helps clean the surfaces and facilitates the soldering process.
-
 - **Circuit Board and Components**: Ensure the circuit board is clean and free of oxidation.
 
 2. **Position Components**:
@@ -29,9 +25,7 @@ Soft soldering is a common method for connecting electronic components. Here are
 3. **Heat and Solder**:
 
 - Heat the soldering iron and touch the solder pad on the circuit board.
-
 - Add the solder so that it melts and connects the components.
-
 - Be careful not to use too much solder.
 
 4. **Cooling**:
@@ -46,15 +40,11 @@ Soft soldering is a common method for connecting electronic components. Here are
 Soldering on circuit boards requires special techniques, especially when dealing with **printed circuit boards (PCBs)**. Here are some important points:
 
 - **Traces**: PCBs have copper traces that connect the components.
-
 - **Component Placement**: Place the components on the circuit board according to the schematic.
-
 - **SMD Technology**: Modern PCBs often use **surface-mount devices (SMDs)**. Precision is essential here.
 
 ### Tips:
-
 - **Practice makes perfect**: Try soldering on old circuit boards or practice boards.
-
 - **Safety**: Pay attention to safety precautions, especially when using soldering irons.
 
 If you have any further questions or need specific details, I'm happy to help! 😊
@@ -80,8 +70,6 @@ Source: Conversation with Copilot, October 6, 2024
 ---
 
 ### 🌐 Relevant topic subpages on ms-muc-docs.de
-
 * [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
-
 * [🌐 Circuit board design & assembly on ms-muc-docs.de ](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 

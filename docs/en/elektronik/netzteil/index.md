@@ -1,4 +1,2 @@
 # Power supply
 
-
-```

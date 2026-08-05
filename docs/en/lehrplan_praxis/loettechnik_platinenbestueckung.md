@@ -17,7 +17,6 @@
 
 ### Soldering Processes & Tools
 - **Temperature-Controlled Soldering Systems:** JBC, Aixun, Ersa, Weller WX for lead-free soldering (SAC305).
-
 - **THT & SMD Assembly:** Manual assembly of through-hole (THT) and surface-mount components (SMD 0805, SOIC).
 
 ---
@@ -26,18 +25,11 @@
 
 ### Rework Stations & Preheating Plates
 - **Hot Air Stations:** Non-destructive desoldering of multi-pin SMD components.
-
 - **Hot Plates:** Uniform heating of circuit boards to prevent thermal shock.
-
 - **Optical Inspection:** Use of digital microscopes for inspecting solder joints.
-
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-
 * [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
-
-]

@@ -25,49 +25,34 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 1. 🔬 **Measuring & diagnostic tools (analytical tools):**
 
 - **Oscilloscopes:** CAN bus waveform analysis, PWM verification.
-
 - **CAN Testers & Interfaces:** PEAK, Busmaster, AEF Check Tool for bus diagnostics.
-
 - **Multimeters:** Voltage, current, resistance, continuity, frequency.
-
 - **Digital Microscopes:** Optical quality inspection of SMD solder joints and crimp contacts.
 
 2. **Production & Manufacturing Tools (Processing Tools):**
 
 - **Soldering Technology:** JBC/Aixun/Ersa soldering stations, hot air rework, hot plates (preheating plates), desoldering braid.
-
 - **Crimping Technology:** 4-notch hand crimpers for Deutsch connectors (DT/DTM), AMP Superseal, hydraulic crimping pliers for large cross-sections.
-
 - **Hand Tools:** Precision tweezers, side cutters, wire strippers.
-
 
 3. ⚡ **Workshop Infrastructure & Equipment (Supply Tools):**
 
 - **Laboratory Power Supplies:** Current-limited power supplies for safe initial setup.
-
 - **Compressors & Solder Paste Dispensers:** Pneumatic tools.
-
 - **ESD Equipment:** Protection against electrostatic discharge.
 
 ## 📚 Curriculum Modules & Focus Areas
 
-### 1. 🔌 [Crimping Technology & Cable Harness Manufacturing]
-
+### 1. 🔌 [Crimping Technology & Cable Harness Manufacturing](./lehrplan_praxis/crimptechnik_kabelbaeume.md)
 - **Curriculum Reference:** Part I LE 1.3 (40 units) | Part II LE 1.2 (40 units)
-
 - **Focus Areas:** Manufacturing of cable harnesses, professional crimp connections (Deutsch connectors DT/DTM, AMP Superseal), hydraulic crimping pliers for large cross-sections, pin removal tools, strain relief & protective tubing.
 
-
 ### 2. 🪛 [Soldering Techniques, PCB Assembly & Rework ](./lehrplan_praxis/loettechnik_platinenbestueckung.md)
-
 - **Curriculum Reference:** Part I LE 1.3 & LE 2.2 | Part II LE 1.2 (40 hours)
-
 - **Focus Areas:** Soft & hard soldering, PCB assembly (THT/SMD), ECU repair, hot air stations (hot air rework), hot plates, JBC/Aixun/Ersa soldering systems, desoldering braid & microscopy.
 
 ### 3. 🔬 [Measuring Instruments & Workshop Equipment ](./lehrplan_praxis/messgeraete_werkstattausstattung.md)
-
 - **Curriculum Reference:** Part I LE 2.1 & LE 2.2 | Part II LE 1.3 (100 hours)
-
 - **Focus Areas:** Diagnostic technology, oscilloscope measurements on the CAN bus and sensors, laboratory power supplies for component testing, multimeter functions, tool maintenance & workshop organization.
 
 ---
@@ -86,19 +71,14 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 
 **Part II – LE 1.3 (Diagnostic Technology)** | **100 hours** | Use of Oscilloscopes, Laboratory Power Supplies & Desoldering Tools |
 
-
 ** ---
 
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-
 * [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
-
 * [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
-
 * [🌐 The PWM Signal & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
 
 ## 🔗 Main Portal & Direct Links to the 6 Wikis
@@ -117,19 +97,7 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 
 **Wiki 4** | **Visual Programming Languages** <br> Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
 
-**Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
+---
 
-
-**Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
-
-**Wiki 4**
-**Wiki 5** ---
-
-> 🌐 **Central Portal of the Munich Master Schools:**
+> 🌐 **Central Portal of the Munich Master Schools:**  
 > Visit the main platform: [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | [📋 Interactive Curriculum Framework 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | [📚 Wiki Overview](https://www.ms-muc-docs.de/wikis) | [📄 PDF Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-
-
-Visit the main platform: [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | 📋 Interactive Curriculum Framework 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | 📚 Wiki Overview](https://www.ms-muc-docs.de/wikis) | 📄 PDF Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-
-
-```

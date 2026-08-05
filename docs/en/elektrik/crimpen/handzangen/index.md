@@ -1,4 +1,2 @@
 # Hand pliers
 
-
-```

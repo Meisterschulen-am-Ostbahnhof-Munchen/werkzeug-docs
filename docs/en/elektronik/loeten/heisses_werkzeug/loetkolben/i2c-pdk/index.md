@@ -16,7 +16,6 @@ Professional high-performance soldering stations from China.
 
 | [PDK-1200R](PDK-1200R.md) | 300–400W | 1 (+vacuum cleaner) | C470 |
 
-
 ## Sleep Base
 
 Tip: If you're using the FNIRSI DWS-200, you'll find "wider" bases here:
@@ -27,8 +26,5 @@ Tip: If you're using the FNIRSI DWS-200, you'll find "wider" bases here:
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 
-
-```

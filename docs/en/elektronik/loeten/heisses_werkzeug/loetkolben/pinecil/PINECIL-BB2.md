@@ -10,8 +10,6 @@ In the following photo:
 
 A TS-100 is shown above, and a Pinecil below.
 
-
-
 ![](https://user-images.githubusercontent.com/69573151/204130628-f5a73d50-f96f-4d51-9b49-edf1f216a012.jpg)
 
 Photo:

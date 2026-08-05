@@ -1,7 +1,5 @@
 # Miniware
-
 - Link: https://e-design.com.cn/en/
-
 - Soldering Iron: https://e-design.com.cn/en/Product/555595.html
 
 Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) is a Chinese brand known for **compact and intelligent tools** for electronics engineers, hobbyists, and DIY enthusiasts.
@@ -44,9 +42,5 @@ Model | Tips | Remarks |
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de
-
 * [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)
-
-]
