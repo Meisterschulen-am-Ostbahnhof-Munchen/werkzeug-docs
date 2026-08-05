@@ -1,5 +1,4 @@
 # German
-
 ## 🎧 Podcast
 * [The Technology Panorama of 1863: Lanz & Comp. and the Revolution of German Agriculture through Import, Innovation, and Guano
 * [Industry 4.0: Hype or Revolution? What's Really Happening in German Factories

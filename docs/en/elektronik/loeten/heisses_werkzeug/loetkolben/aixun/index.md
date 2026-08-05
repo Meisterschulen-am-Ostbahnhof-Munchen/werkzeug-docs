@@ -1,13 +1,8 @@
 # AiXun
-
 All models: **JBC tips**
-
 Link: https://www.aixun.com/
-
 AiXun is building a highly customized ecosystem – with stations, handles, and even voice control.
-
 ## Models
-
 | Model | Type | Handles | Power |
 
 |--------|-----|--------|----------|

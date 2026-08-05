@@ -1,11 +1,7 @@
 # Standard Soldering Iron
-
 In this chapter, I want to summarize everything that's out there regarding
-
 "classic" soldering irons, with which [@franz-ms-muc](https://github.com/franz-ms-muc)] has had rather mediocre to poor experiences.
-
 Certainly, you can solder with them, but the disadvantages are:
-
 * High wear on the soldering tips
 * Slow heating
 * Large footprint on the desk (except for JCD)

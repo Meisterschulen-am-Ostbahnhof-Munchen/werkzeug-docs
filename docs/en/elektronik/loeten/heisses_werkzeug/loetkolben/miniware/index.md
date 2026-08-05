@@ -1,13 +1,9 @@
 # Miniware
 - Link: https://e-design.com.cn/en/
 - Soldering Iron: https://e-design.com.cn/en/Product/555595.html
-
 Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) is a Chinese brand known for **compact and intelligent tools** for electronics engineers, hobbyists, and DIY enthusiasts.
-
 ## Soldering Iron Models
-
 | Model | Tips | Power Supply | Wattage | Firmware |
-
 |--------|---------|----------------|----------|----------|
 
 | [TS-80P](TS-80.md) | Weller-like | USB-C PD/QC | 30W | miniware / IronOS |

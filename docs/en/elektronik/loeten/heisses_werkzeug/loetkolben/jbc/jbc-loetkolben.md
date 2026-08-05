@@ -1,11 +1,7 @@
 # JBC Soldering Irons
-
 ## Tips
-
 JBC offers various tips, which they call [Cartridges](https://www.jbctools.com/cartridges-category-4.html)].
-
 The three most important are:
-
 * C115
 * C210
 * C245

@@ -1,13 +1,8 @@
 # Ersa Soldering Irons
-
 ## i-CON Series (Soldering Stations)
-
 The corresponding i-TOOL, i-TOOL NANO, and i-TOOL PICO handheld soldering irons are the most powerful and advanced tools that connect to the electronically controlled soldering stations (i-CON 1/2/Vario, i-CON NANO, i-CON PICO). They utilize internally heated soldering tips for maximum efficiency.
-
 ## Ersa Soldering Tip Series
-
 ### Series 142 (current)
-
 Designed for the latest generation of i-CON soldering stations: **i-TOOL MK2** and **i-TOOL TRACE**.
 
 These tips represent the latest generation of active soldering tips from Ersa and offer the fastest response time.

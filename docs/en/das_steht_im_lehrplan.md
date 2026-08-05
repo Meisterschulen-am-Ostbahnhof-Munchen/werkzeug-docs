@@ -1,13 +1,9 @@
 # 📋 This is what the curriculum covers: Electronics tools & manual skills
-
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework curriculum for preparing for the master craftsman's examination in agricultural and construction machinery mechatronics*
 > **Publisher:** German Association of Agricultural and Construction Machinery Mechatronics Engineers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (as of February 25, 2025)
-
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of September 9, 2024 (Federal Law Gazette 2024 I No. 277, effective August 1, 2025)
-
 ---
-
 ## 🎯 Practical and manual skills are integrated into the 2025 curriculum
 
 The mechatronics trade combines mechanics, electronics, and control technology. In the new 2025 curriculum framework, the **practical and manual skills** of wiring, crimping, soldering, circuit board assembly, and the professional use of workshop measuring instruments are **direct prerequisites** for completing the master craftsman's project (Part I) and for proper workshop maintenance (Part II).

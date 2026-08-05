@@ -1,13 +1,8 @@
 # Weller WX Series
-
 In the author's opinion, the best soldering station in the world is the
-
 Weller WX,
-
 with Weller RT soldering tips.
-
 These tips can be changed while hot,
-
 the heat-up time is a sensational 5 seconds,
 
 and even a small soldering tip can be used for relatively large jobs; the station delivers extremely high heat.

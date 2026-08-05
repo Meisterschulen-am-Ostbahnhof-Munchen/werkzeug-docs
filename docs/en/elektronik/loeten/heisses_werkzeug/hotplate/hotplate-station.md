@@ -1,9 +1,6 @@
 # Hotplate Station
-
 A hotplate should be available in every workshop.
-
 Applications:
-
 * Soldering (e.g., SMD assembly, repairs)
 * BUT: this only works with single-sided circuit boards.
 * * Preheating ball bearings or other rings ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - [https://www.youtube.com/watch?v=JsVh7m2qA-8](https://www.youtube.com/watch?v=JsVh7m2qA-8) ])

@@ -1,13 +1,8 @@
 # Soldering Irons
-
 Welcome to the page about soldering irons! Soldering is an important technique in electronics, allowing us to connect electronic components. A soldering iron is the primary tool used for this. On this page, we'll take a closer look at soldering irons and explain how to use and maintain them correctly. So, if you're new to soldering or simply want to learn more about this useful tool, then read on!
-
 | **Brand** | **Name** | **Power** | **Tips** | **Remarks** | **Link** |
-
 |-----------|-----------------|---------------|--------------------|---------------------|-------------------------------------------------------|
-
 | Weller | WX Line | — | RT active (Weller) | High-End, Smart | [weller/](weller/) |
-
 | Weller | WT Line | — | LT/XNT passive | Standard Prof. | [weller/](weller/) |
 
 | Weller | WE 1010 | 70W | LT/XNT passive | Entry Prof. | [weller/](weller/) |

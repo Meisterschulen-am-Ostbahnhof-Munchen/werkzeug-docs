@@ -1,13 +1,9 @@
 # 🔬 Measuring & Diagnostic Tools and Workshop Equipment
-
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework Curriculum for Preparation for the Master Craftsman Examination in Agricultural and Construction Machinery Mechatronics*
 > **Publisher:** German Association of Agricultural and Construction Machinery Mechatronics Engineers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (as of February 25, 2025)
-
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of September 9, 2024 (Federal Law Gazette 2024 I No. 277, effective August 1, 2025)
-
 ---
-
 ## 🎯 Role of Measuring & Diagnostic Tools in the Curriculum
 
 Measuring and diagnostic tools are **essential tools** in the mechatronics trade. The following diagnostic and testing equipment is required for master craftsman trainees according to the 2025 curriculum framework (Part I LE 2.1, LE 2.2 & Part II LE 1.3):

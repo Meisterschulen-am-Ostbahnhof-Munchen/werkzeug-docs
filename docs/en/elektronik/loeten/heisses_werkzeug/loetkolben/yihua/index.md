@@ -1,11 +1,7 @@
 # Yihua
-
 All Models: **JBC Tips**
-
 Link: http://yihua-soldering.com/
-
 Yihua (Guangzhou Yihua Electronic Equipment Co., Ltd.) is a Chinese company specializing in soldering equipment and DC power supplies. Known as a supplier of:
-
 - Hot Air Soldering Stations
 - 2-in-1 or 3-in-1 Soldering and Rework Stations (SMD Components, BGA Repairs)
 - Soldering Irons

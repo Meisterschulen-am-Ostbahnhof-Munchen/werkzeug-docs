@@ -1,13 +1,8 @@
 # Platino Soldering Iron
-
 In the previous chapter, we already discussed the advantages of "active tips."
-
 Now, a Weller soldering station can easily cost €1000!
-
 So, enthusiasts took matters into their own hands and reasoned: the technology is in the tip:
-
 Weller RT soldering tips work with the Platino.
-
 A similar article can be found at Heise under the name **Corncob**
 
 Report:

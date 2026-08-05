@@ -1,10 +1,6 @@
 # Ersa
-
 ERSA is a leading German manufacturer of soldering technology and, as part of the Kurtz Ersa technology group, a global leader in electronics manufacturing.
-
-
 ERSA is a leading German manufacturer of soldering technology and part of the Kurtz Ersa Group, a global leader in electronics manufacturing. Link: https://kurtzersa.de/
-
 ## Product Lines
 - **Soldering Stations (i-CON Series):** i-TOOL, i-TOOL NANO, i-TOOL PICO
 - **Regulated Power Soldering Irons:** MULTI-TC, PTC 70, MULTI-TIP

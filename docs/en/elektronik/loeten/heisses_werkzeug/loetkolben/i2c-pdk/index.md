@@ -1,13 +1,8 @@
 # I2C PDK
-
 All models: **JBC Tips**
-
 Link: https://i2c123.com/
-
 Professional high-performance soldering stations from China.
-
 ## Models
-
 | Model | Power | Handles | Tips |
 
 |--------|----------|------------|----------|

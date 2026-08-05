@@ -1,13 +1,8 @@
 # Mini Hot Plate Preheater MHP30
-
 Miniware also offers a hot plate:
-
 <https://e-design.com.cn/en/Mini-Hot-Plate-Preheater-MHP30-PG9226717>
-
 [https://youtu.be/jTQjTvJe_UE](https://youtu.be/jTQjTvJe_UE)
-
 [https://www.aliexpress.com/item/1005001665675952.html](https://www.aliexpress.com/item/1005001665675952.html)
-
 With 60W, it is powered via PD, making it the Miniware device that draws the most power via PD.
 
 The soldering irons can handle a maximum of 30W or 45W.

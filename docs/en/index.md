@@ -1,12 +1,12 @@
 ---
 myst:
-  enable_extensions: ["colon_fence"]
-  html_meta:
-    "description lang=en": "metadata description"
-    "description lang=de": "metadata description"
-    "description lang=fr": "description des métadonnées"
-    "keywords": "Sphinx, MyST"
-    "property=og:locale": "de"
+enable_extensions: ["colon_fence"]
+html_meta:
+"description lang=en": "metadata description"
+"description lang=de": "metadata description"
+"description lang=fr": "description des métadonnées"
+"keywords": "Sphinx, MyST"
+"property=og:locale": "de"
 * [PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
 
 ---
@@ -48,13 +48,13 @@ This documentation is part of the knowledge database of the master craftsman sch
 ---
 
 !!! note
-    Questions/Suggestions:
-    Go here:
-    
-    [Discussion Forum](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions)
+Questions/Suggestions:
+Go here:
+
+[Discussion Forum](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/discussions)
 
 !!! note
-    This project is under active development.
+This project is under active development.
 
 **Contents**
 
