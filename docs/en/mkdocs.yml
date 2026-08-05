@@ -8,7 +8,7 @@ markdown_extensions:
     permalink: true
 plugins:
 - search
-site_name: Handbook for Electronics Tools: Soldering Irons and More (5)
+site_name: 'Handbook for Electronics Tools: Soldering Irons and More (5)'
 site_url: https://docs.ms-muc-docs.de/projects/werkzeug-docs/
 extra:
   alternate:
