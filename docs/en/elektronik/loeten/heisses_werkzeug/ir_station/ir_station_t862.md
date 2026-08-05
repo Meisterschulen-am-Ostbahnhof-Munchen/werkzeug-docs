@@ -32,9 +32,6 @@ Source: Conversation with Copilot, October 6, 2024
 
 Since this device is too heavy to ship from China, eBay with shipping from the Czech Republic is recommended.
 
-# ...``
-
-`````
 ## Photos T862
 
 ![](https://user-images.githubusercontent.com/69573151/201538847-cb5ee1c2-a59c-4074-8c87-1fb1b98dce81.jpg)
