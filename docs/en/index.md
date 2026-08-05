@@ -7,6 +7,8 @@ myst:
     "description lang=fr": "description des métadonnées"
     "keywords": "Sphinx, MyST"
     "property=og:locale": "de"
+* [PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
+
 ---
 
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
