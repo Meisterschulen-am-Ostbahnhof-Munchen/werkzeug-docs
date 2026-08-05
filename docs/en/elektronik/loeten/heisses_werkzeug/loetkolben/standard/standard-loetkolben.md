@@ -43,7 +43,8 @@ JCD 908S:
 
 €135 is the price for the ST-100: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)] Unfortunately, I have no personal experience with it. The tips of the ST-100 are different!!!
 
-€80 for a soldering station that's no better: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)] ## Photos of Standard Soldering Irons:
+€80 for a soldering station that's no better: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)]
+## Photos of Standard Soldering Irons:
 
 ![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 

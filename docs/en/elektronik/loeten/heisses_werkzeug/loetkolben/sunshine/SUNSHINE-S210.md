@@ -9,7 +9,8 @@ The Sunshine S210 is surprising in two ways:
 
 ## Disadvantages of the SUNSHINE S210:
 * While the USB-C connector is standard, the power adapter is proprietary. This means you can't use it for anything else, and you can't operate the S210 with other power adapters.
-* While the USB-C connector is standard, the power adapter is proprietary. ## Links SUNSHINE S210:
+* While the USB-C connector is standard, the power adapter is proprietary.
+## Links SUNSHINE S210:
 
 [https://www.aliexpress.com/item/1005004883524600.html](https://www.aliexpress.com/item/1005004883524600.html)
 

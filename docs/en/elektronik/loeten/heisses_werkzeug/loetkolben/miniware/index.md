@@ -31,7 +31,8 @@ Model | Tips | Remarks |
 [SA210](SA210.md) | JBC C210 | Handle separate, not interchangeable |
 
 [SA245](SA245.md) | JBC C245 | Handle separate, not interchangeable |
-... ## Podcast
+...
+## Podcast
 
 * [Miniware TS101: The Mobile Soldering All-Rounder – Strengths, Weaknesses, and the USB-C Revolution
 

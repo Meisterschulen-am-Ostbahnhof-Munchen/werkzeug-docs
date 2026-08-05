@@ -19,7 +19,8 @@ AiXun is building a highly customized ecosystem – with stations, handles, and 
 
 [BS08](BS08.md)] | Voice Control / Hub | — | — |
 
-``` ## Handles T225
+```
+## Handles T225
 
 Special handles with gyroscope and buttons:
 
