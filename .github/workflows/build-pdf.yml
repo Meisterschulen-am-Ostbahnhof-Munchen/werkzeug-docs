@@ -60,7 +60,7 @@ jobs:
           restore-keys: |
             downloaded-images-${{ runner.os }}-
 
-      - name: "Compile PDF (German)
+      - name: "Compile PDF (German)"
         run: |
           python merge_docs.py docs/de/mkdocs.yml
           pandoc docs/de/combined.md -o docs/de/book.typ --from commonmark_x --to typst --wrap=none
