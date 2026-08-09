@@ -40,7 +40,6 @@ The Aerotec feels about 20% louder than the Güde. This isn't so much due to the
 
 Metabo has a sound pressure level of 82 dB(A) and a sound power level of 94 dB(A).
 
-[https://de.wikipedia.org/wiki/Schalldruckpegel](https://de.wikipedia.org/wiki/Schalldruckpegel)
 
 ] The Aerotec feels about 20% louder than the Güde. This isn't so much due to the sheer volume, but rather the smoother running. The Güde has a more pronounced knocking sound.
 
