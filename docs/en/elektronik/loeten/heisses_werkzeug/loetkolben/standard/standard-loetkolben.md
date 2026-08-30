@@ -1,4 +1,5 @@
 # Standard Soldering Iron
+
 In this chapter, I want to summarize everything that's out there regarding
 "classic" soldering irons, with which [@franz-ms-muc](https://github.com/franz-ms-muc)] has had rather mediocre to poor experiences.
 Certainly, you can solder with them, but the disadvantages are:
@@ -11,6 +12,7 @@ Certainly, you can solder with them, but the disadvantages are:
 - Slow temperature control
 
 ## Examples
+
 - ATTEN ST-60 / 60 W Soldering Station, ESD-safe
 - The ATTEN ST-100 / 100 W soldering iron/station does NOT belong in this list.
 - It has improved tip technology.
@@ -45,7 +47,8 @@ JCD 908S:
 €135 is the price for the ST-100: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)] Unfortunately, I have no personal experience with it. The tips of the ST-100 are different!!!
 
 €80 for a soldering station that's no better: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html)]
-## Photos of Standard Soldering Irons:
+
+## Photos of Standard Soldering Irons
 
 ![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
@@ -54,6 +57,7 @@ JCD 908S:
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
+
 - [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

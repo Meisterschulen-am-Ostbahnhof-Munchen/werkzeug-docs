@@ -11,7 +11,7 @@ ein 2. S245 hat den Sleep.
 
 ![](https://user-images.githubusercontent.com/69573151/224664019-4cbfc2fc-031e-4c67-be83-e20b33786d18.jpeg)
 
-## Links SUNSHINE S245:
+## Links SUNSHINE S245
 
 [https://www.aliexpress.com/item/1005005007871843.html](https://www.aliexpress.com/item/1005005007871843.html)
 

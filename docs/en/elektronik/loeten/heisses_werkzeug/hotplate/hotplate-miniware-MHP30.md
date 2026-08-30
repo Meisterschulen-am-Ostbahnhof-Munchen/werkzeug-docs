@@ -1,4 +1,5 @@
 # Mini Hot Plate Preheater MHP30
+
 Miniware also offers a hot plate:
 <https://e-design.com.cn/en/Mini-Hot-Plate-Preheater-MHP30-PG9226717>
 [https://youtu.be/jTQjTvJe_UE](https://youtu.be/jTQjTvJe_UE)
@@ -21,5 +22,6 @@ However, it is no longer suitable for larger boards! It's a mini, after all!
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

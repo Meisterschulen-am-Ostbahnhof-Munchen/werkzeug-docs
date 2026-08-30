@@ -14,6 +14,7 @@ Die Elektronik ist ein wichtiger Bestandteil unseres modernen Lebens. Sie ist ü
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Ohmsches Gesetz & Formelrad auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/ohmsches-gesetz/)
 - [🌐 Kirchhoffsche Regeln auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/kirchhoffsche-regeln/)
 - [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)

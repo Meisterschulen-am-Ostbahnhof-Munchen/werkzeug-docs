@@ -1,4 +1,5 @@
 # Hot Plate Mechanic IX5
+
 The **Mechanic IX5** is a versatile hot plate commonly used for preheating printed circuit boards (PCBs) and other soldering tasks. Here are some key features and available attachments:
 
 - **Power**: The hot plate has a maximum temperature of 260 °C¹.
@@ -15,6 +16,7 @@ Are you planning a specific project for which you'd like to use the Mechanic IX5
 ²: [Amazon.com: Mechanic IX5 Ultra, Universal Preheating Platform](https://www.amazon.com/Universal-Preheating-Platform-Desoldering-Motherboard/dp/B0CNXFDVPC)
 
 Source: Conversation with Copilot, October 6, 2024
+
 1) Mechanic IX5 Ultra Universal Preheating Platform - Mini Hot Plate. https://www.youtube.com/watch?v=QQ9InzwVL2g.
 2) Mechanic IX5 Ultra Heating Platform Universal PCB Welding Table | REVIEW AMD EXPLANATION VIDEO. https://www.youtube.com/watch?v=B4IVOOXwd7o.
 3) Unboxing Mechanic IX5 Pre-Heating Platform for iPhone X/X11/X12 Pro Max. https://www.youtube.com/watch?v=F0ilRPweCDQ.
@@ -30,5 +32,6 @@ Source: Conversation with Copilot, October 6, 2024
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 

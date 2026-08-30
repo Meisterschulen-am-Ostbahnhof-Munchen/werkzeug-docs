@@ -1,6 +1,6 @@
 # Mikroskop
 
-## Einige Modelle:
+## Einige Modelle
 
 [https://de.aliexpress.com/item/1005001572737660.html](https://de.aliexpress.com/item/1005001572737660.html)
 

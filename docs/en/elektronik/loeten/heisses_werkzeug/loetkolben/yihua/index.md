@@ -1,4 +1,5 @@
 # Yihua
+
 All Models: **JBC Tips**
 Link: http://yihua-soldering.com/
 Yihua (Guangzhou Yihua Electronic Equipment Co., Ltd.) is a Chinese company specializing in soldering equipment and DC power supplies. Known as a supplier of:
@@ -17,6 +18,7 @@ Serving both hobbyists and professional workshops worldwide.
 | [YIHUA-982](YIHUA-982.md) | Soldering Iron |
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
 - [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)
 

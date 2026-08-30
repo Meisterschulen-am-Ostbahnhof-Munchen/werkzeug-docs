@@ -1,23 +1,28 @@
 # SUNSHINE S210
+
 The Sunshine S210 is surprising in two ways:
 
 - With 3 tips, it's incredibly affordable at €51.40
 - At 110W, it's almost twice as powerful as other common soldering irons that only deliver 65W
-## Features of the SUNSHINE S210:
+
+## Features of the SUNSHINE S210
+
 - A magnet in the station switches the soldering iron off
 - A 2-second heat-up time is excellent
 - Stand and cleaning wool included
 
-## Disadvantages of the SUNSHINE S210:
+## Disadvantages of the SUNSHINE S210
+
 - While the USB-C connector is standard, the power adapter is proprietary. This means you can't use it for anything else, and you can't operate the S210 with other power adapters.
 - While the USB-C connector is standard, the power adapter is proprietary.
-## Links SUNSHINE S210:
+
+## Links SUNSHINE S210
 
 [https://www.aliexpress.com/item/1005004883524600.html](https://www.aliexpress.com/item/1005004883524600.html)
 
 [https://www.sunshinerepairtools.com/sunshine-s210-smart-portable-soldering-iron-p4384457.html](https://www.sunshinerepairtools.com/sunshine-s210-smart-portable-soldering-iron-p4384457.html)
 
-## Photos SUNSHINE S210:
+## Photos SUNSHINE S210
 
 ![IMG20230227120300](https://user-images.githubusercontent.com/69573151/221553752-c773374c-16ab-4dee-b3ab-91eca115658e.jpg)
 
@@ -54,5 +59,6 @@ The soldering iron works well with 0.75mm².
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

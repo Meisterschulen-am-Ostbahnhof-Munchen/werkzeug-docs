@@ -16,18 +16,22 @@ Mess- und Diagnosewerkzeuge sind **vollwertige Werkzeuge** im Mechatroniker-Hand
 ## 1. 🔍 Übersicht aller Diagnose- & Messwerkzeuge im Wiki
 
 ### 1.1 Oszilloskope
+
 - **Anwendungsbereich:** Signalformanalyse am CAN-Bus (CAN-High / CAN-Low), Hysteresebestimmung bei PWM-Proportionalventilen, Hall-Sensor-Zündsignale.
 - **Link im Wiki:** [`elektronik/oszilloskop/index.md`](../elektronik/oszilloskop/index.md)
 
 ### 1.2 Multimeter & Kombi-Messgeräte
+
 - **Anwendungsbereich:** Präzise Messung von Gleich-/Wechselspannung, Widerständen, Durchgangsprüfung, Isolationswiderstandsmessung an HV-Systemen.
 - **Link im Wiki:** [`elektrik/messgeraete/index.md`](../elektrik/messgeraete/index.md)
 
 ### 1.3 CAN-Tester & Protokoll-Analysatoren
+
 - **Anwendungsbereich:** PEAK-Adapterkabel, Busmaster, AEF-ISOBUS-CHECK-Tool zur Überwachung von PGNs, Frames und Busruhe.
 - **Link im Wiki:** *(Siehe auch Wiki 3 ISOBUS Technik)*
 
 ### 1.4 Digitale Inspektion-Mikroskope
+
 - **Anwendungsbereich:** Optische Qualitätskontrolle von SMD-Lötstellen, Cold-Joints, Crimp-Verpressungen und Schliffbildern.
 - **Link im Wiki:** [`elektronik/loeten/sonstiges/Mikroskop.md`](../elektronik/loeten/sonstiges/Mikroskop.md)
 
@@ -36,14 +40,17 @@ Mess- und Diagnosewerkzeuge sind **vollwertige Werkzeuge** im Mechatroniker-Hand
 ## 2. ⚡ Werkstattinfrastruktur & Labornetzteile
 
 ### 2.1 Strombegrenzte Labornetzteile
+
 - **Funktion:** Einspeisung definierter Versorgungsspannungen (z. B. 12V / 24V) mit einstellbarer Strombegrenzung zur zwingenden Vermeidung von Bauteilzerstörung beim Ersttest von Steuergeräten.
 - **Link im Wiki:** [`elektronik/netzteil/index.md`](../elektronik/netzteil/index.md)
 
 ### 2.2 Kompressoren & Solder Paste Dispenser
+
 - **Funktion:** Druckluftversorgung für pneumatische Entlötsauger, Paste Dispenser und Werkstattreinigung.
 
 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Das PWM-Signal & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)

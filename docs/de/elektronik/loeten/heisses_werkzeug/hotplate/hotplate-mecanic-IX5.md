@@ -18,6 +18,7 @@ Planst du ein spezielles Projekt, für das du die Mechanic IX5 verwenden möchte
 ²: [Amazon.com: Mechanic IX5 Ultra, Universal Preheating Platform](https://www.amazon.com/Universal-Preheating-Platform-Desoldering-Motherboard/dp/B0CNXFDVPC)
 
 Quelle: Unterhaltung mit Copilot, 6.10.2024
+
 1) Mechanic IX5 Ultra Universal Preheating Platform - Mini Hot Plate. https://www.youtube.com/watch?v=QQ9InzwVL2g.
 2) Mechanic IX5 Ultra Heating Platform Universal PCB Welding Table | REVIEW AMD EXPLANATION VIDEO. https://www.youtube.com/watch?v=B4IVOOXwd7o.
 3) Unboxing Mechanic IX5 Pre-Heating Platform for iPhone X/X11/X12 Pro Max. https://www.youtube.com/watch?v=F0ilRPweCDQ.
@@ -32,4 +33,5 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

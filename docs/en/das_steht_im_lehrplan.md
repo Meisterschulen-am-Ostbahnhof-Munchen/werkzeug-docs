@@ -1,9 +1,11 @@
 # 📋 This is what the curriculum covers: Electronics tools & manual skills
+>
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework curriculum for preparing for the master craftsman's examination in agricultural and construction machinery mechatronics*
 > **Publisher:** German Association of Agricultural and Construction Machinery Mechatronics Engineers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (as of February 25, 2025)
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of September 9, 2024 (Federal Law Gazette 2024 I No. 277, effective August 1, 2025)
 ---
+
 ## 🎯 Practical and manual skills are integrated into the 2025 curriculum
 
 The mechatronics trade combines mechanics, electronics, and control technology. In the new 2025 curriculum framework, the **practical and manual skills** of wiring, crimping, soldering, circuit board assembly, and the professional use of workshop measuring instruments are **direct prerequisites** for completing the master craftsman's project (Part I) and for proper workshop maintenance (Part II).
@@ -25,13 +27,13 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 - **Multimeters:** Voltage, current, resistance, continuity, frequency.
 - **Digital Microscopes:** Optical quality inspection of SMD solder joints and crimp contacts.
 
-2. **Production & Manufacturing Tools (Processing Tools):**
+1. **Production & Manufacturing Tools (Processing Tools):**
 
 - **Soldering Technology:** JBC/Aixun/Ersa soldering stations, hot air rework, hot plates (preheating plates), desoldering braid.
 - **Crimping Technology:** 4-notch hand crimpers for Deutsch connectors (DT/DTM), AMP Superseal, hydraulic crimping pliers for large cross-sections.
 - **Hand Tools:** Precision tweezers, side cutters, wire strippers.
 
-3. ⚡ **Workshop Infrastructure & Equipment (Supply Tools):**
+1. ⚡ **Workshop Infrastructure & Equipment (Supply Tools):**
 
 - **Laboratory Power Supplies:** Current-limited power supplies for safe initial setup.
 - **Compressors & Solder Paste Dispensers:** Pneumatic tools.
@@ -40,14 +42,17 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 ## 📚 Curriculum Modules & Focus Areas
 
 ### 1. 🔌 [Crimping Technology & Cable Harness Manufacturing](./lehrplan_praxis/crimptechnik_kabelbaeume.md)
+
 - **Curriculum Reference:** Part I LE 1.3 (40 units) | Part II LE 1.2 (40 units)
 - **Focus Areas:** Manufacturing of cable harnesses, professional crimp connections (Deutsch connectors DT/DTM, AMP Superseal), hydraulic crimping pliers for large cross-sections, pin removal tools, strain relief & protective tubing.
 
 ### 2. 🪛 [Soldering Techniques, PCB Assembly & Rework ](./lehrplan_praxis/loettechnik_platinenbestueckung.md)
+
 - **Curriculum Reference:** Part I LE 1.3 & LE 2.2 | Part II LE 1.2 (40 hours)
 - **Focus Areas:** Soft & hard soldering, PCB assembly (THT/SMD), ECU repair, hot air stations (hot air rework), hot plates, JBC/Aixun/Ersa soldering systems, desoldering braid & microscopy.
 
 ### 3. 🔬 [Measuring Instruments & Workshop Equipment ](./lehrplan_praxis/messgeraete_werkstattausstattung.md)
+
 - **Curriculum Reference:** Part I LE 2.1 & LE 2.2 | Part II LE 1.3 (100 hours)
 - **Focus Areas:** Diagnostic technology, oscilloscope measurements on the CAN bus and sensors, laboratory power supplies for component testing, multimeter functions, tool maintenance & workshop organization.
 
@@ -67,6 +72,7 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
+
 - [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 - [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

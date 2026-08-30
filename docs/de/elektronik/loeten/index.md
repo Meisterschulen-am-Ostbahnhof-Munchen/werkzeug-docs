@@ -9,6 +9,7 @@ Zitat:
 Quelle: <https://de.wikipedia.org/wiki/L%C3%B6ten>
 
 ## Weichlöten
+
 Beim Weichlöten handelt es sich um eine gängige Methode, um elektronische Bauteile miteinander zu verbinden. Hier sind die Schritte für das Weichlöten:
 
 1. **Materialien vorbereiten**:
@@ -32,19 +33,22 @@ Beim Weichlöten handelt es sich um eine gängige Methode, um elektronische Baut
    - Entferne überschüssiges Lötzinn und reinige die Platine.
 
 ## Löten auf Platinen
+
 Das Löten auf Platinen erfordert spezielle Techniken, insbesondere wenn es um **gedruckte Schaltungen (PCBs)** geht. Hier sind einige wichtige Punkte:
 
 - **Leiterbahnen**: PCBs haben Kupferleiterbahnen, die die Bauteile miteinander verbinden.
 - **Bauteile bestücken**: Platziere die Bauteile gemäß dem Schaltplan auf der Platine.
 - **SMD-Technologie**: Bei modernen PCBs werden oft **oberflächenmontierte Bauteile (SMD)** verwendet. Hierbei ist Präzision gefragt.
 
-### Tipps:
+### Tipps
+
 - **Übung macht den Meister**: Probiere das Löten an alten Platinen oder Übungsplatinen aus.
 - **Sicherheit**: Achte auf die Arbeitssicherheit, insbesondere bei der Verwendung von Lötkolben.
 
 Wenn du weitere Fragen hast oder spezifische Details benötigst, stehe ich gerne zur Verfügung! 😊
 
 Quelle: Unterhaltung mit Copilot, 6.10.2024
+
 1) Einstieg ins Löten - Tutorial für Anfänger - Teil 2: Heißluftlöten einer Platine. https://www.youtube.com/watch?v=cD-h0lzCGmE.
 2) Löten ganz einfach erklärt - Weichlöten. https://www.youtube.com/watch?v=b0AT86CDySY.
 3) Weichlöten Teil2 ... Eine Steignaht löten. https://www.youtube.com/watch?v=61Zk8QZ6A_Y.
@@ -53,10 +57,11 @@ Quelle: Unterhaltung mit Copilot, 6.10.2024
 6) Richtig löten – Tipps und Tricks für Zuhause - OBI. https://bing.com/search?q=Einf%c3%bchrungsblock+L%c3%b6ten+Weichl%c3%b6ten+L%c3%b6ten+auf+Platinen.
 7) Richtig löten Schritt für Schritt erklärt | hagebau.de. https://www.hagebau.de/beratung-loeten/.
 
-## Infos: 
+## Infos 
 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

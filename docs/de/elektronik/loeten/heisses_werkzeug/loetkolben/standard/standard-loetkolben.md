@@ -48,7 +48,7 @@ JCD 908S:
 
 135€ muss man dann für die ST-100 ausgeben: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html) habe leider keine Persönlichen Erfahrungen mit der. Die Spitzen der ST-100 sind anders!!!
 
-## Fotos Standard Lötkolben:
+## Fotos Standard Lötkolben
 
 ![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
@@ -57,5 +57,6 @@ JCD 908S:
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

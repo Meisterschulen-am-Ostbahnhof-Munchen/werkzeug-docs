@@ -40,14 +40,17 @@ In diesem Wiki werden alle drei im Rahmenlehrplan 2025 geforderten Werkzeug-Kate
 ## 📚 Lehrplan-Module & Schwerpunkte
 
 ### 1. 🔌 [Crimptechnik & Kabelbaumfertigung](./lehrplan_praxis/crimptechnik_kabelbaeume.md)
+
 - **Lehrplan-Bezug:** Teil I LE 1.3 (40 UE) | Teil II LE 1.2 (40 UStd.)
 - **Schwerpunkte:** Herstellung von Kabelbäumen, professionelle Crimpverbindungen (Deutsch-Stecker DT/DTM, AMP Superseal), Hydraulische Crimpzangen für große Querschnitte, Auspinnwerkzeuge, Zugentlastung & Schutzschläuche.
 
 ### 2. 🪛 [Löttechnik, Platinenbestückung & Rework](./lehrplan_praxis/loettechnik_platinenbestueckung.md)
+
 - **Lehrplan-Bezug:** Teil I LE 1.3 & LE 2.2 | Teil II LE 1.2 (40 UStd.)
 - **Schwerpunkte:** Weich- & Hartlöten, Bestückung von Platinen (THT/SMD), Reparatur von Steuergeräte-Platinen, Heißluft-Stationen (Hotair Rework), Vorheizplatten (Hotplates), JBC/Aixun/Ersa Lötsysteme, Entlötlitze & Mikroskopie.
 
 ### 3. 🔬 [Messgeräte & Werkstattausstattung](./lehrplan_praxis/messgeraete_werkstattausstattung.md)
+
 - **Lehrplan-Bezug:** Teil I LE 2.1 & LE 2.2 | Teil II LE 1.3 (100 UStd.)
 - **Schwerpunkte:** Diagnosetechnik, Oszilloskop-Messungen am CAN-Bus und an Sensoren, Labornetzteile zur Komponentenprüfung, Multimeter-Funktionen, Werkszeugpflege & Werkstattorganisation.
 
@@ -67,6 +70,7 @@ In diesem Wiki werden alle drei im Rahmenlehrplan 2025 geforderten Werkzeug-Kate
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

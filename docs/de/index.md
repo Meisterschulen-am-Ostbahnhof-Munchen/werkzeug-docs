@@ -23,6 +23,7 @@ myst:
 ---
 
 ### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
+>
 > **Löten, Platinenbestückung, Crimptechnik & Messgeräte sind die praktischen Hauptfertigkeiten des Rahmenlehrplans 2025** zur Herstellung und Reparatur von Kabelbäumen, Steckern, Steuergeräten und mechatronischen Baugruppen (LandBauMechMstrV vom 09.09.2024, in Kraft ab 01.08.2025).
 
 - 📋 **[Das steht im Lehrplan – Werkzeug- & Handwerkpraxis im Lehrplan](./das_steht_im_lehrplan.md)**
@@ -64,4 +65,5 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

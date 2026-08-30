@@ -1,4 +1,5 @@
 # Platino Soldering Iron
+
 In the previous chapter, we already discussed the advantages of "active tips."
 Now, a Weller soldering station can easily cost €1000!
 So, enthusiasts took matters into their own hands and reasoned: the technology is in the tip:
@@ -16,6 +17,7 @@ Report:
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

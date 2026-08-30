@@ -17,6 +17,7 @@ Diese Zubehörteile sind in der Regel direkt beim Hersteller oder bei spezialisi
 Planst du ein spezielles Projekt, für das du die T862++ verwenden möchtest? Vielleicht kann ich dir noch weitere Tipps geben!
 
 Quelle: Unterhaltung mit Copilot, 6.10.2024
+
 1) TAIAN PUHUI T862++ USER MANUAL Pdf Download | ManualsLib. https://www.manualslib.com/manual/1133800/Taian-Puhui-T862PlusPlus.html.
 2) IRDA SMD & BGA Rework Station T862 User Manual - Happylab: Dein 900m² .... http://wiki.happylab.at/images/a/a8/T-862Man.pdf.
 3) IRDA SMD & BGA Rework Station T-862++ User Manual - PUHUI T. http://www.puhuit.com/videos/700MBCD/T862++/T-862++%20Manual.pdf.
@@ -41,4 +42,5 @@ da dieses Gerät für einen Versand aus China zu schwer ist, ist hier Ebay mit e
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

@@ -8,7 +8,7 @@ Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) ist eine chinesis
 ## Modelle Lötkolben
 
 | Modell | Spitzen | Stromversorgung | Leistung | Firmware |
-|--------|---------|----------------|----------|----------|
+| -------- | --------- | ---------------- | ---------- | ---------- |
 | [TS-80P](TS-80.md) | Weller-ähnlich | USB-C PD/QC | 30W | miniware / IronOS |
 | [TS-100](TS-100.md) | TS100-Serie | DC 5525 | 65W | miniware / IronOS |
 | [TS-101](TS-101.md) | TS100-Serie | USB-C PD + DC | 45–90W | miniware / IronOS |
@@ -19,7 +19,7 @@ Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) ist eine chinesis
 ## SA-Adapter (für MHP50 Heizplatte)
 
 | Modell | Spitzen | Bemerkung |
-|--------|---------|-----------|
+| -------- | --------- | ----------- |
 | [SA80](SA80.md) | TS80P | Macht MHP50 zu Lötkolben |
 | [SA115](SA115.md) | JBC C115 | Griff separat, kein Wechsel möglich |
 | [SA210](SA210.md) | JBC C210 | Griff separat, kein Wechsel möglich |
@@ -33,5 +33,6 @@ Miniware (Guangzhou e-Design Intelligent Technology Co., Ltd.) ist eine chinesis
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
