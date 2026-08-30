@@ -50,9 +50,9 @@ JCD 908S:
 
 ## Fotos Standard Lötkolben
 
-![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
+![Standard-Lötkolben mit Station und Ständer](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201533701-e3ff9fcc-c3c9-4a2e-bab5-f677f178a127.jpg)
+![Passive Lötspitze auf Keramikheizkörper aufgesteckt](https://user-images.githubusercontent.com/69573151/201533701-e3ff9fcc-c3c9-4a2e-bab5-f677f178a127.jpg)
 
 ---
 

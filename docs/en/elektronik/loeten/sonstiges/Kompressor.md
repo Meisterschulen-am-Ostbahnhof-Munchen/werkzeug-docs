@@ -52,6 +52,6 @@ Metabo offers a very similar device: [https://www.metabo.com/de/de/maschinen/dru
 
 Many more similar ones can be found: [https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1](https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1)
 
-![](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
+![Compact workshop compressor overall view](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)
+![Compressor pressure gauge and connectors](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)

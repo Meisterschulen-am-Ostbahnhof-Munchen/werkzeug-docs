@@ -49,6 +49,6 @@ rein vom anschauen her scheint es sich hier um einen Kühlschrankkompressor zu h
 
 viele weitere ähnliche lassen sich finden: [https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1](https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1)
 
-![](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
+![Kompakter Werkstatt-Kompressor Gesamtansicht](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)
+![Kompressor Druckanzeige und Anschlüsse](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)

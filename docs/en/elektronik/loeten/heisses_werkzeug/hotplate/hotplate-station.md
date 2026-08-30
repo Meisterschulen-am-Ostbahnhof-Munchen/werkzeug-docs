@@ -37,20 +37,20 @@ The scald protection on the side is also an advantage.
 
 ## Photos ET-10
 
-![](https://user-images.githubusercontent.com/69573151/201537686-1dfe313c-0a37-488a-9191-267f9fb63daa.jpg)
+![ET-10 hotplate front view with temperature display](https://user-images.githubusercontent.com/69573151/201537686-1dfe313c-0a37-488a-9191-267f9fb63daa.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537705-881ebcb6-b508-4886-a1bc-83467ce4fe43.jpg)
+![ET-10 hotplate underside and heating area](https://user-images.githubusercontent.com/69573151/201537705-881ebcb6-b508-4886-a1bc-83467ce4fe43.jpg)
 
 The insulation of the heating wires doesn't make the best impression! Electrical safety Questionable!
 
-![](https://user-images.githubusercontent.com/69573151/201537726-4ed8b40f-d6b5-4e03-969d-870a16539583.jpg)
+![ET-10 hotplate wiring and heating wire insulation](https://user-images.githubusercontent.com/69573151/201537726-4ed8b40f-d6b5-4e03-969d-870a16539583.jpg)
 
 ## Photos ET-20
 
 The ET-20 already has a fairing here; no wires are sticking out anymore!
 
-![](https://user-images.githubusercontent.com/69573151/201537849-6da09a62-f83d-4fa1-b620-5ffc19599943.jpg)
+![ET-20 hotplate overview with housing cover](https://user-images.githubusercontent.com/69573151/201537849-6da09a62-f83d-4fa1-b620-5ffc19599943.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537874-fcb49963-5db1-4fa6-9193-c05aaff8402a.jpg)
+![ET-20 hotplate side view](https://user-images.githubusercontent.com/69573151/201537874-fcb49963-5db1-4fa6-9193-c05aaff8402a.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537879-d4218e64-ee25-4700-9e20-bb100eab0c49.jpg)
+![ET-20 hotplate connectors and details](https://user-images.githubusercontent.com/69573151/201537879-d4218e64-ee25-4700-9e20-bb100eab0c49.jpg)

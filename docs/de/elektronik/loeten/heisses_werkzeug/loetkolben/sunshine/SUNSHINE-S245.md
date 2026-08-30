@@ -2,14 +2,14 @@
 
 Links die Spitze des S210, rechts die des S245
 
-![](https://user-images.githubusercontent.com/69573151/224663576-2205daf2-852e-4d3e-8e54-22e1ecdf0ef4.jpg)
+![Vergleich der Lötspitzen Sunshine S210 links und S245 rechts](https://user-images.githubusercontent.com/69573151/224663576-2205daf2-852e-4d3e-8e54-22e1ecdf0ef4.jpg)
 
 der S210 scheint einen sehr praktischen Sleep zu haben, 
 
 beim S245 scheint der zu fehlen. --> hat sich rausgestellt das das ein Defekt ist, 
 ein 2. S245 hat den Sleep. 
 
-![](https://user-images.githubusercontent.com/69573151/224664019-4cbfc2fc-031e-4c67-be83-e20b33786d18.jpeg)
+![Sunshine S245 Lötkolben mit Schlafmodus-Ablage](https://user-images.githubusercontent.com/69573151/224664019-4cbfc2fc-031e-4c67-be83-e20b33786d18.jpeg)
 
 ## Links SUNSHINE S245
 

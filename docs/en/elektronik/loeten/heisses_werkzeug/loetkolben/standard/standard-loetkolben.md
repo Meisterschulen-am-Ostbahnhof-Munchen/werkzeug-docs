@@ -50,9 +50,9 @@ JCD 908S:
 
 ## Photos of Standard Soldering Irons
 
-![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
+![Standard soldering iron with station and stand](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201533701-e3ff9fcc-c3c9-4a2e-bab5-f677f178a127.jpg)
+![Passive soldering tip mounted on ceramic heating element](https://user-images.githubusercontent.com/69573151/201533701-e3ff9fcc-c3c9-4a2e-bab5-f677f178a127.jpg)
 
 ---
 
