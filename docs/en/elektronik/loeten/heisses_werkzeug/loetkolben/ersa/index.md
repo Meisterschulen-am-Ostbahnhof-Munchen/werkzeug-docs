@@ -21,4 +21,4 @@ Current Series: **Series 102** and **Series 142**
 --
 
 ### 🌐 Related topic pages on ms-muc-docs.de
-* [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
+- [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de

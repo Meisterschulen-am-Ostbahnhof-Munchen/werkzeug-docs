@@ -2,19 +2,19 @@
 A hotplate should be available in every workshop.
 Applications:
 
-* Soldering (e.g., SMD assembly, repairs)
-* BUT: this only works with single-sided circuit boards.
-* * Preheating ball bearings or other rings ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - [https://www.youtube.com/watch?v=JsVh7m2qA-8](https://www.youtube.com/watch?v=JsVh7m2qA-8) ])
-* Removing LCD screens, e.g., when repairing a phone
-* Heating
-* liquids, e.g., keeping soup, coffee, or similar warm...
-* Heating food, e.g., the cool glasses from Würth: [https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php](https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php) (that's Julia Schäfer, by the way: [https://www.tiktok.com/@tschulique)](https://www.tiktok.com/@tschulique))])
+- Soldering (e.g., SMD assembly, repairs)
+- BUT: this only works with single-sided circuit boards.
+- * Preheating ball bearings or other rings ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - [https://www.youtube.com/watch?v=JsVh7m2qA-8](https://www.youtube.com/watch?v=JsVh7m2qA-8) ])
+- Removing LCD screens, e.g., when repairing a phone
+- Heating
+- liquids, e.g., keeping soup, coffee, or similar warm...
+- Heating food, e.g., the cool glasses from Würth: [https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php](https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php) (that's Julia Schäfer, by the way: [https://www.tiktok.com/@tschulique)](https://www.tiktok.com/@tschulique))])
 
 Advantages:
 
-* 2 displays: Target and actual temperature display!
-* Controlled temperature, much more precise than an oven plate
-* Much more even than a hot air gun or a flame.
+- 2 displays: Target and actual temperature display!
+- Controlled temperature, much more precise than an oven plate
+- Much more even than a hot air gun or a flame.
 
 ## Sources for Hotplates:
 

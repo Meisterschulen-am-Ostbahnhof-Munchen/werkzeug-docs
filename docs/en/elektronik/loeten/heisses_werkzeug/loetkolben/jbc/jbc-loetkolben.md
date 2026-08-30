@@ -3,9 +3,9 @@
 JBC offers various tips, which they call [Cartridges](https://www.jbctools.com/cartridges-category-4.html)].
 The three most important are:
 
-* C115
-* C210
-* C245
+- C115
+- C210
+- C245
 
 The advantage is that you can use original JBC cartridges in aftermarket soldering irons, and you can also use aftermarket tips in JBC soldering irons.
 
@@ -65,6 +65,6 @@ I have no experience with these either!
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
-* [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)
+- [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
+- [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)
 

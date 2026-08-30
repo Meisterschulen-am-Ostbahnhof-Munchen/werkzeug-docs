@@ -41,4 +41,4 @@ da dieses Gerät für einen Versand aus China zu schwer ist, ist hier Ebay mit e
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

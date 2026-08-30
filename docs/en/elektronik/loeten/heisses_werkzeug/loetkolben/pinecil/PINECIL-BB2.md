@@ -17,10 +17,10 @@ Accesories:
 
 starting from the top left: 
 
-* [S4 short-tip-set-fine](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
-* [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
-* [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
-* [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
+- [S4 short-tip-set-fine](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
+- [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
+- [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
+- [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
 
 ![Image261023122726](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/f9d4e86a-700c-4666-a91e-e910f6ab3d8a)
 ![Image261023122533-000](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/554dfff7-c798-43b1-9493-2b5d17806f52)

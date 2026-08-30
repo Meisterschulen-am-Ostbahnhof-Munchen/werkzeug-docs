@@ -41,4 +41,4 @@ Since this device is too heavy to ship from China, eBay with shipping from the C
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

@@ -6,9 +6,9 @@ bei JBC gibt es verschiedene Spitzen, JBC nennt diese [Cartridges](https://www.j
 
 die bedeutendsten 3 sind dabei: 
 
-* C115
-* C210
-* C245
+- C115
+- C210
+- C245
 
 der Vorteil ist, dass man bei Nachbau Lötkolben dann die Original JBC Cartriges einsetzen kann, wie auch in JBC Lötkolben die nachgebauten Spitzen einsetzen kann. 
 
@@ -64,5 +64,5 @@ ebenfalls keinerlei Erfahrungen !
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+- [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+- [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

@@ -23,10 +23,10 @@ Model | Tips | Remarks |
 ...
 ## Podcast
 
-* [Miniware TS101: The Mobile Soldering All-Rounder – Strengths, Weaknesses, and the USB-C Revolution
+- [Miniware TS101: The Mobile Soldering All-Rounder – Strengths, Weaknesses, and the USB-C Revolution
 
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-* [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de
-* [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)
+- [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de
+- [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)

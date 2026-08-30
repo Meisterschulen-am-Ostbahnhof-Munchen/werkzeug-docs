@@ -2,8 +2,8 @@
 
 Einsatz eines Kompressors:
 
-*   Abblasen von Platinen nach dem Reinigen
-*   Klebstoff und Lötpasten-Dispenser benötigen Druckluft. siehe: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
+-   Abblasen von Platinen nach dem Reinigen
+-   Klebstoff und Lötpasten-Dispenser benötigen Druckluft. siehe: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
 
 Über den Kompressor gibt es nicht soviel zu sagen, 
 

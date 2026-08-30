@@ -6,21 +6,21 @@ in diesem Kapitel möchte ich alles zusammenfassen was an 
 
 sicherlich kann man damit auch löten, aber die Nachteile sind:
 
-*   hoher Verschleiß der Lötspitzen
-*   langsames Aufheizen
-*   Viel Platzbedarf auf dem Schreibtisch (außer bei JCD)
-*   relativ starres Kabel
-*   langsame Reaktionszeit bei Berührung mit der Lötstelle
-*   langsame Temperaturregelung
+-   hoher Verschleiß der Lötspitzen
+-   langsames Aufheizen
+-   Viel Platzbedarf auf dem Schreibtisch (außer bei JCD)
+-   relativ starres Kabel
+-   langsame Reaktionszeit bei Berührung mit der Lötstelle
+-   langsame Temperaturregelung
 
 ## Beispiele
 
-*   ATTEN ST-60 / 60 W Lötstation, ESD-sicher
-    *   die ATTEN Lötkolben/Lötstation ST-100 / 100 W gehört NICHT in diese Liste.
-        *   die hat eine verbesserte Spitzentechnik.
-*   YIHUA 926LED-III Digitale Elektrische Lötkolben
-*   JCD 908S
-*   und viele viele mehr !!!!
+-   ATTEN ST-60 / 60 W Lötstation, ESD-sicher
+    -   die ATTEN Lötkolben/Lötstation ST-100 / 100 W gehört NICHT in diese Liste.
+        -   die hat eine verbesserte Spitzentechnik.
+-   YIHUA 926LED-III Digitale Elektrische Lötkolben
+-   JCD 908S
+-   und viele viele mehr !!!!
 
 ## Gemeinsamkeiten
 
@@ -57,5 +57,5 @@ JCD 908S:
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+- [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+- [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

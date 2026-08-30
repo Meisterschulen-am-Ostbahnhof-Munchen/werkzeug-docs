@@ -65,6 +65,6 @@ Source: Conversation with Copilot, October 6, 2024
 ---
 
 ### 🌐 Relevant topic subpages on ms-muc-docs.de
-* [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
-* [🌐 Circuit board design & assembly on ms-muc-docs.de ](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+- [🌐 Circuit board design & assembly on ms-muc-docs.de ](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 

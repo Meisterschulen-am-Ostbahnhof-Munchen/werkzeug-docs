@@ -30,5 +30,5 @@ Source: Conversation with Copilot, October 6, 2024
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 

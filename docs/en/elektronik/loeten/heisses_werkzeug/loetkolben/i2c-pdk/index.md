@@ -18,5 +18,5 @@ Tip: If you're using the FNIRSI DWS-200, you'll find "wider" bases here:
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+- [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 

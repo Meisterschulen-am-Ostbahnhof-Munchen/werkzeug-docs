@@ -22,5 +22,5 @@ ERSA refers to this principle as **"internally heated soldering tip technology f
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
-* [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)
+- [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
+- [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de)

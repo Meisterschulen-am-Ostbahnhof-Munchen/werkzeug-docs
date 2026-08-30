@@ -2,18 +2,18 @@
 
 Der Sunshine S210 überrascht in zweierlei Hinsicht:
 
-*   mit 3 Spitzen kommt er mit 51,40 € enorm günstig daher
-*   mit 110W ist er fast doppelt so stark wie die anderen gängigen Lötkolben die nur 65W bringen
+-   mit 3 Spitzen kommt er mit 51,40 € enorm günstig daher
+-   mit 110W ist er fast doppelt so stark wie die anderen gängigen Lötkolben die nur 65W bringen
 
 ## Features SUNSHINE S210:
 
-*   Magnet in der Station schaltet den Lötkolben aus
-*   2s Aufheizzeit sind top
-*   Ständer und Reinigungswolle mitgeliefert
+-   Magnet in der Station schaltet den Lötkolben aus
+-   2s Aufheizzeit sind top
+-   Ständer und Reinigungswolle mitgeliefert
 
 ## Nachteile SUNSHINE S210:
 
-*   zwar ist der USB-C Stecker standard, jedoch ist das Netzteil speziell. d.h. man kann mit diesem Netzteil nichts anderes anstellen, und den S210 auch nicht an anderen Netzteilen betreiben.
+-   zwar ist der USB-C Stecker standard, jedoch ist das Netzteil speziell. d.h. man kann mit diesem Netzteil nichts anderes anstellen, und den S210 auch nicht an anderen Netzteilen betreiben.
 
 ## Links SUNSHINE S210:
 
@@ -58,4 +58,4 @@ mit 0.75mm² spielt sich der Lötkolben. 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+- [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

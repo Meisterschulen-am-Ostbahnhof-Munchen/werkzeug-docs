@@ -1,8 +1,8 @@
 # Compressor
 Uses of a compressor:
 
-* Blowing off circuit boards after cleaning
-* Adhesive and solder paste dispensers require compressed air. See: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
+- Blowing off circuit boards after cleaning
+- Adhesive and solder paste dispensers require compressed air. See: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
 There isn't much to say about the compressor itself,
 except that the smallest model you can find will definitely suffice.
 

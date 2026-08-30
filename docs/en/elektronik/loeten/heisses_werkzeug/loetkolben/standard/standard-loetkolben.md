@@ -3,20 +3,20 @@ In this chapter, I want to summarize everything that's out there regarding
 "classic" soldering irons, with which [@franz-ms-muc](https://github.com/franz-ms-muc)] has had rather mediocre to poor experiences.
 Certainly, you can solder with them, but the disadvantages are:
 
-* High wear on the soldering tips
-* Slow heating
-* Large footprint on the desk (except for JCD)
-* Relatively stiff cable
-* Slow reaction time when touching the soldering point
-* Slow temperature control
+- High wear on the soldering tips
+- Slow heating
+- Large footprint on the desk (except for JCD)
+- Relatively stiff cable
+- Slow reaction time when touching the soldering point
+- Slow temperature control
 
 ## Examples
-* ATTEN ST-60 / 60 W Soldering Station, ESD-safe
-* The ATTEN ST-100 / 100 W soldering iron/station does NOT belong in this list.
-* It has improved tip technology.
-* YIHUA 926LED-III Digital Electric Soldering Iron
-* JCD 908S
-* and many, many more!!!!
+- ATTEN ST-60 / 60 W Soldering Station, ESD-safe
+- The ATTEN ST-100 / 100 W soldering iron/station does NOT belong in this list.
+- It has improved tip technology.
+- YIHUA 926LED-III Digital Electric Soldering Iron
+- JCD 908S
+- and many, many more!!!!
 
 ## Similarities
 
@@ -54,6 +54,6 @@ JCD 908S:
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-* [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-* [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+- [🌐 Interactive JBC Soldering Tip Guide & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+- [🌐 The Right Soldering Tip for the Mechatronics Engineer (Web App & Comparison on ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 
