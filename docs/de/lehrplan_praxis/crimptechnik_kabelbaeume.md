@@ -15,6 +15,7 @@
 ## 1. Industrielle Crimpverbindungen
 
 ### Crimpzangen & Steckersysteme
+
 - **Deutsch-Stecker (DT, DTM, DTP):** Standard im Nutzfahrzeug- & Landmaschinenbau. Verwendung von 4-Kerb-Crimpzangen für gedrehte Kontakte.
 - **AMP Superseal 1.5:** Wasserdichte Steckverbindungen für Sensorik im Außenbereich (Einzelleiterabdichtung / Seals).
 - **Hydraulische Crimpzangen:** Für große Leiterquerschnitte (Batteriekabel, HV-Leitungen ab 16 mm² bis 95 mm²).
@@ -24,6 +25,7 @@
 ## 2. Qualitätskriterien für Crimpverbindungen
 
 ### Prüfung nach Norm (DIN EN 60352-2)
+
 - **Crimp-Höhe & Crimp-Breite:** Einhaltung der Herstellerspezifikationen.
 - **Auszieh-Kraftprüfung:** Mechanische Festigkeitsprüfung.
 - **Schliffbildanalyse:** Sichtprüfung auf korrekte Verpressung ohne Hohlräume.

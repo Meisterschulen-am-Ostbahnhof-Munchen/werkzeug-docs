@@ -1,6 +1,6 @@
 # Mikroskop
 
-## Einige Modelle:
+## Einige Modelle
 
 [https://de.aliexpress.com/item/1005001572737660.html](https://de.aliexpress.com/item/1005001572737660.html)
 
@@ -8,6 +8,6 @@
 
 <https://www.elektor.de/products/andonstar-ad210-10-1-digital-microscope>
 
-![](https://user-images.githubusercontent.com/69573151/203067979-50713f8e-764a-4031-b285-c018fdd45324.jpg)
+![Digitales Löt-Mikroskop mit Display und Ständer](https://user-images.githubusercontent.com/69573151/203067979-50713f8e-764a-4031-b285-c018fdd45324.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/203069130-7608de95-40f9-48e1-9da6-c607b48d1923.jpg)
+![Digitalmikroskop im Einsatz beim Betrachten einer Platine](https://user-images.githubusercontent.com/69573151/203069130-7608de95-40f9-48e1-9da6-c607b48d1923.jpg)

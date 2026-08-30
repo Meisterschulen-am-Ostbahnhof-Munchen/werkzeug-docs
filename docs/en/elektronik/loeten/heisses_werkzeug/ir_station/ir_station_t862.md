@@ -1,4 +1,5 @@
 # Infrared Rework Station T862
+
 The **IR Rework Station T862++** is a versatile and powerful station designed for reworking SMD and BGA components. Here are some key features and specifications:
 
 - **Power**: The station has an output power of 800 W².
@@ -36,9 +37,10 @@ Since this device is too heavy to ship from China, eBay with shipping from the C
 
 ## Photos T862
 
-![](https://user-images.githubusercontent.com/69573151/201538847-cb5ee1c2-a59c-4074-8c87-1fb1b98dce81.jpg)
+![Infrared rework station T862 overall view](https://user-images.githubusercontent.com/69573151/201538847-cb5ee1c2-a59c-4074-8c87-1fb1b98dce81.jpg)
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+
+- [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

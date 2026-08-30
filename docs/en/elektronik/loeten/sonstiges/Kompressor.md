@@ -1,8 +1,9 @@
 # Compressor
+
 Uses of a compressor:
 
-* Blowing off circuit boards after cleaning
-* Adhesive and solder paste dispensers require compressed air. See: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
+- Blowing off circuit boards after cleaning
+- Adhesive and solder paste dispensers require compressed air. See: https://werkzeug-docs.readthedocs.io/de/latest/elektronik/loeten/sonstiges/SolderPasteDispenser.html
 There isn't much to say about the compressor itself,
 except that the smallest model you can find will definitely suffice.
 
@@ -51,6 +52,6 @@ Metabo offers a very similar device: [https://www.metabo.com/de/de/maschinen/dru
 
 Many more similar ones can be found: [https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1](https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1)
 
-![](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
+![Compact workshop compressor overall view](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)
+![Compressor pressure gauge and connectors](https://user-images.githubusercontent.com/69573151/204131019-a447e48f-9992-4012-b709-5c2aa7b32da4.jpg)

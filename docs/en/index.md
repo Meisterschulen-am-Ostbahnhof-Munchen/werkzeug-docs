@@ -8,7 +8,7 @@ html_meta:
 "keywords": "Sphinx, MyST"
 "property=og:locale": "de"
 
-* [PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
+- [PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
 
 ---
 
@@ -30,10 +30,10 @@ By "tools" we mean the **entire range of workshop equipment** – not only produ
 
 > **Soldering, circuit board assembly, crimping techniques, and measuring instruments are the main practical skills of the Framework Curriculum 2025** for the production and repair of cable harnesses, connectors, control units, and mechatronic assemblies (LandBauMechMstrV of September 9, 2024, effective August 1, 2025).
 
-* 📋 **[This is in the curriculum – Tool & Craft Practice in the curriculum ](./das_steht_im_lehrplan.md)**
-* 🔌 [Crimping Techniques & Cable Harness Manufacturing (German/AMP, LE 1.3 / 40 teaching units) ](./lehrplan_praxis/crimptechnik_kabelbaeume.md)
-* 🪛 [Soldering Techniques, PCB Assembly & Rework (SMD/THT/Hotair, LE 1.3 & LE 2.2) ](./lehrplan_praxis/loettechnik_platinenbestueckung.md)
-* 🔬 [Measuring Instruments & Workshop Equipment (Oscilloscope/Lab Power Supply, LE 1.2 & LE 1.3) ](./lehrplan_praxis/messgeraete_werkstattausstattung.md)
+- 📋 **[This is in the curriculum – Tool & Craft Practice in the curriculum ](./das_steht_im_lehrplan.md)**
+- 🔌 [Crimping Techniques & Cable Harness Manufacturing (German/AMP, LE 1.3 / 40 teaching units) ](./lehrplan_praxis/crimptechnik_kabelbaeume.md)
+- 🪛 [Soldering Techniques, PCB Assembly & Rework (SMD/THT/Hotair, LE 1.3 & LE 2.2) ](./lehrplan_praxis/loettechnik_platinenbestueckung.md)
+- 🔬 [Measuring Instruments & Workshop Equipment (Oscilloscope/Lab Power Supply, LE 1.2 & LE 1.3) ](./lehrplan_praxis/messgeraete_werkstattausstattung.md)
 
 ---
 
@@ -41,10 +41,10 @@ By "tools" we mean the **entire range of workshop equipment** – not only produ
 
 This documentation is part of the knowledge database of the master craftsman schools at Munich East Station.
 
-* 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
-* [🏠 Main Menu](https://www.ms-muc-docs.de/)
-* [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/)
-* [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
+- 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
+- [🏠 Main Menu](https://www.ms-muc-docs.de/)
+- [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/)
+- [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
 
 ---
 
@@ -66,4 +66,5 @@ This project is under active development.
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+
+- [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

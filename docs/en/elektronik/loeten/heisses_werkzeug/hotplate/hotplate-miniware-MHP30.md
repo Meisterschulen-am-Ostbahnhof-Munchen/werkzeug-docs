@@ -1,4 +1,5 @@
 # Mini Hot Plate Preheater MHP30
+
 Miniware also offers a hot plate:
 <https://e-design.com.cn/en/Mini-Hot-Plate-Preheater-MHP30-PG9226717>
 [https://youtu.be/jTQjTvJe_UE](https://youtu.be/jTQjTvJe_UE)
@@ -12,14 +13,15 @@ It is well-suited for desoldering individual chips.
 It can also be used to populate small circuit boards up to approximately 35x35mm.
 
 However, it is no longer suitable for larger boards! It's a mini, after all!
-... ![](https://user-images.githubusercontent.com/69573151/201537155-e17179b9-147f-45a4-a696-2cd5dec50f22.jpg)
+... ![Miniware MHP30 hotplate preheater](https://user-images.githubusercontent.com/69573151/201537155-e17179b9-147f-45a4-a696-2cd5dec50f22.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537194-9acc2a05-f690-4413-80cb-87713ee7c8aa.jpg)
+![Miniware MHP30 hotplate detailed view](https://user-images.githubusercontent.com/69573151/201537194-9acc2a05-f690-4413-80cb-87713ee7c8aa.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537225-b1968d66-e618-4f0b-9f88-f470e6086858.jpg)
+![Miniware MHP30 hotplate in application](https://user-images.githubusercontent.com/69573151/201537225-b1968d66-e618-4f0b-9f88-f470e6086858.jpg)
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+
+- [🌐 The right soldering tip for the mechatronics technician (web app & comparison on ms-muc-docs.de) ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 

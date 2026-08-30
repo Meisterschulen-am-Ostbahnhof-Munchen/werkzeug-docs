@@ -1,16 +1,16 @@
 # PINECIL-BB2
 
-## Links PINECIL-BB2:
+## Links PINECIL-BB2
 
 [https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
 
-![](https://user-images.githubusercontent.com/69573151/204130599-26c63938-0842-404f-9afd-87288e1816de.jpg)
+![Pinecil Smart Mini Portable Lötkolben](https://user-images.githubusercontent.com/69573151/204130599-26c63938-0842-404f-9afd-87288e1816de.jpg)
 
 im folgenden Foto: 
 
 oben ein TS-100, unten ein Pinecil.
 
-![](https://user-images.githubusercontent.com/69573151/204130628-f5a73d50-f96f-4d51-9b49-edf1f216a012.jpg)
+![Vergleich von TS-100 oben und Pinecil Lötkolben unten](https://user-images.githubusercontent.com/69573151/204130628-f5a73d50-f96f-4d51-9b49-edf1f216a012.jpg)
 
 Foto:
 
@@ -22,10 +22,10 @@ Zubehör:
 
 von oben links beginnend: 
 
-* [S4 short-tip-set-fine](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
-* [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
-* [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
-* [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
+- [S4 short-tip-set-fine](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
+- [K2 long-tip-set-fine](https://pine64.com/product/pinecil-soldering-tip-set-fine/)
+- [S3 short-tip-set-gross](https://pine64.com/product/pinecil-soldering-short-tip-set-gross/)
+- [K1 long-tip-set-gross](https://pine64.com/product/pinecil-soldering-tip-set-gross/)
 
 ![Image261023122726](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/f9d4e86a-700c-4666-a91e-e910f6ab3d8a)
 ![Image261023122533-000](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/554dfff7-c798-43b1-9493-2b5d17806f52)

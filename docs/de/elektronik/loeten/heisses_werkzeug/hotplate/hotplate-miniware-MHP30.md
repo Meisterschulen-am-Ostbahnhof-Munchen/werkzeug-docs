@@ -18,13 +18,14 @@ auch kleine Platinen bis ca. 35x35mm kann man damit gut bestücken. 
 
 wird es größer ist man aber damit nicht mehr gut bedient! mini eben !
 
-![](https://user-images.githubusercontent.com/69573151/201537155-e17179b9-147f-45a4-a696-2cd5dec50f22.jpg)
+![Miniware MHP30 Hotplate Preheater](https://user-images.githubusercontent.com/69573151/201537155-e17179b9-147f-45a4-a696-2cd5dec50f22.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537194-9acc2a05-f690-4413-80cb-87713ee7c8aa.jpg)
+![Miniware MHP30 Heizplatte Detailansicht](https://user-images.githubusercontent.com/69573151/201537194-9acc2a05-f690-4413-80cb-87713ee7c8aa.jpg)
 
-![](https://user-images.githubusercontent.com/69573151/201537225-b1968d66-e618-4f0b-9f88-f470e6086858.jpg)
+![Miniware MHP30 Hotplate in Anwendung](https://user-images.githubusercontent.com/69573151/201537225-b1968d66-e618-4f0b-9f88-f470e6086858.jpg)
 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+
+- [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)

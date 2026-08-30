@@ -2,26 +2,26 @@
 
 Der Sunshine S210 überrascht in zweierlei Hinsicht:
 
-*   mit 3 Spitzen kommt er mit 51,40 € enorm günstig daher
-*   mit 110W ist er fast doppelt so stark wie die anderen gängigen Lötkolben die nur 65W bringen
+-   mit 3 Spitzen kommt er mit 51,40 € enorm günstig daher
+-   mit 110W ist er fast doppelt so stark wie die anderen gängigen Lötkolben die nur 65W bringen
 
-## Features SUNSHINE S210:
+## Features SUNSHINE S210
 
-*   Magnet in der Station schaltet den Lötkolben aus
-*   2s Aufheizzeit sind top
-*   Ständer und Reinigungswolle mitgeliefert
+-   Magnet in der Station schaltet den Lötkolben aus
+-   2s Aufheizzeit sind top
+-   Ständer und Reinigungswolle mitgeliefert
 
-## Nachteile SUNSHINE S210:
+## Nachteile SUNSHINE S210
 
-*   zwar ist der USB-C Stecker standard, jedoch ist das Netzteil speziell. d.h. man kann mit diesem Netzteil nichts anderes anstellen, und den S210 auch nicht an anderen Netzteilen betreiben.
+-   zwar ist der USB-C Stecker standard, jedoch ist das Netzteil speziell. d.h. man kann mit diesem Netzteil nichts anderes anstellen, und den S210 auch nicht an anderen Netzteilen betreiben.
 
-## Links SUNSHINE S210:
+## Links SUNSHINE S210
 
 [https://www.aliexpress.com/item/1005004883524600.html](https://www.aliexpress.com/item/1005004883524600.html)
 
 [https://www.sunshinerepairtools.com/sunshine-s210-smart-portable-soldering-iron-p4384457.html](https://www.sunshinerepairtools.com/sunshine-s210-smart-portable-soldering-iron-p4384457.html)
 
-## Fotos SUNSHINE S210:
+## Fotos SUNSHINE S210
 
 ![IMG20230227120300](https://user-images.githubusercontent.com/69573151/221553752-c773374c-16ab-4dee-b3ab-91eca115658e.jpg)
 
@@ -58,4 +58,5 @@ mit 0.75mm² spielt sich der Lötkolben. 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
+
+- [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
