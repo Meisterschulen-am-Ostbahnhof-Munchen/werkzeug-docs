@@ -167,7 +167,7 @@ cython_debug/
 # Typst temporary files
 *combined.md
 *book.typ
-*img/downloaded/
+**/img/downloaded/
 
 
 
