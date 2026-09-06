@@ -9,6 +9,6 @@ Miniware hat hier nachgezogen, nachdem quasi "alle" anderen auf JBC-kompatible S
 
 ---
 
-### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+## 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
 
 - [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)

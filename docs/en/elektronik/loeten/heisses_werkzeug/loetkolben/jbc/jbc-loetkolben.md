@@ -29,10 +29,7 @@ The advantage is that you can use original JBC cartridges in aftermarket solderi
 ### **Common Features**
 
 - **Technology**: All three types utilize JBC's advanced technology, which enables rapid temperature recovery and long tip life¹.
-
-### **Common Features**
-
-- **Technology**: All three types utilize JBC's advanced technology, enabling rapid temperature recovery and long tip life. - **Sleep and Sleep Mode**: The cartridges benefit from the sleep and sleep modes of JBC soldering stations, which extends the tip lifespan¹.
+- **Sleep and Sleep Mode**: The cartridges benefit from the sleep and sleep modes of JBC soldering stations, which extends the tip lifespan¹.
 
 ### **Differences**
 

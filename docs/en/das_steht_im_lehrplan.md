@@ -65,7 +65,7 @@ This wiki covers all three tool categories required by the 2025 curriculum frame
 | **Part I – LE 1.3 (Practical Installation)** | **40 hours** | Practical cable harness fabrication, crimping, installation of mechatronic components |
 | **Part I – LE 2.2 (Troubleshooting & Repair)** | **40 hours** | Repair of plug connectors, soldering of replacement components, signal measurement |
 | **Part II – LE 1.2 (Maintenance)** | **40 hours** | Quality Assurance of Soldered/Crimped Connections, Tool Selection & Maintenance |
-**Part II – LE 1.3 (Diagnostic Technology)** | **100 hours** | Use of Oscilloscopes, Laboratory Power Supplies & Desoldering Tools |
+| **Part II – LE 1.3 (Diagnostic Technology)** | **100 hours** | Use of Oscilloscopes, Laboratory Power Supplies & Desoldering Tools |
 
 ** ---
 
