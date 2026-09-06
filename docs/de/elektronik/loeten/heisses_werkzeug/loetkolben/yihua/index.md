@@ -15,9 +15,9 @@ Bedient sowohl Hobbyelektroniker als auch professionelle Werkstätten weltweit.
 
 ## Modelle
 
-| Modell | Beschreibung |
-|--------|-------------|
-| [YIHUA-982](YIHUA-982.md) | Lötkolben |
+| Modell                    | Beschreibung |
+| ------------------------- | ------------ |
+| [YIHUA-982](YIHUA-982.md) | Lötkolben    |
 
 
 ---

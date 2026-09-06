@@ -8,10 +8,10 @@ Professionelle Hochleistungs-Lötstationen aus China.
 
 ## Modelle
 
-| Modell | Leistung | Handgriffe | Spitzen |
-|--------|----------|------------|---------|
-| [PDK-1200](PDK-1200.md) | 300W | 2 | C210, C115, C245 |
-| [PDK-1200R](PDK-1200R.md) | 300–400W | 1 (+Sauger) | C470 |
+| Modell                    | Leistung | Handgriffe  | Spitzen          |
+| ------------------------- | -------- | ----------- | ---------------- |
+| [PDK-1200](PDK-1200.md)   | 300W     | 2           | C210, C115, C245 |
+| [PDK-1200R](PDK-1200R.md) | 300–400W | 1 (+Sauger) | C470             |
 
 ## Sleep Base
 

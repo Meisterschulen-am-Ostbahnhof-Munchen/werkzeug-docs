@@ -12,9 +12,9 @@ html_meta:
 
 ---
 
-<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
-
 # Wiki 5: Tool & Measuring Equipment Handbook (Manufacturing, Measuring & Diagnostic Tools)
+
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 ## Master Craftsman Schools at Munich East Station
 
@@ -43,7 +43,7 @@ This documentation is part of the knowledge database of the master craftsman sch
 
 - 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
 - [🏠 Main Menu](https://www.ms-muc-docs.de/)
-- [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/)
+- [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs-en/en/latest/)
 - [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf)
 
 ---
@@ -57,11 +57,11 @@ Go here:
 !!! note
 This project is under active development.
 
-**Contents**
+## Contents
 
 ---
 
-[🏠 Main Menu](https://www.ms-muc-docs.de/) | [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) | [Quick Search (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
+[🏠 Main Menu](https://www.ms-muc-docs.de/) | [🔍 Super Search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs-en/en/latest/) | [Quick Search (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
 
 ---
 
