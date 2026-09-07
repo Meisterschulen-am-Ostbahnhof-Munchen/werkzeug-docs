@@ -14,7 +14,7 @@ dependencies:
   - urllib3>=2.2.2
   - pip
   - pip:
-    - sphinxcontrib.googleanalytics
-    - sphinx-markdown-tables
-    - sphinxemoji
-    - clang
+      - sphinxcontrib.googleanalytics
+      - sphinx-markdown-tables
+      - sphinxemoji
+      - clang
