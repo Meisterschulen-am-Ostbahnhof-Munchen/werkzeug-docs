@@ -41,7 +41,7 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 
 - 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
 - [🏠 Hauptmenü](https://www.ms-muc-docs.de/)
-- [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs-de/de/latest/)
+- [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/)
 - [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/de/pdf/werkzeug-docs-de.pdf)
 
 ---
@@ -59,7 +59,7 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 
 ---
 
-[🏠 Hauptmenü](https://www.ms-muc-docs.de/) | [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs-de/de/latest/) | [Schnelle Suche (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
+[🏠 Hauptmenü](https://www.ms-muc-docs.de/) | [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) | [Schnelle Suche (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
 
 
 ---
